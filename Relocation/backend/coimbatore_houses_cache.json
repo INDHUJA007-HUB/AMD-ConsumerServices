@@ -1,0 +1,574 @@
+[
+  {
+    "id": "CBE-F01",
+    "name": "Spacious 2BHK in RS Puram",
+    "area": "RS Puram, Coimbatore",
+    "locality": "RS Puram",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹18,000/month",
+    "priceRaw": 18000,
+    "description": "Well-ventilated 2BHK apartment in the heart of RS Puram. Walking distance to schools, banks, and supermarkets. The unit features wide windows, modular kitchen, and ample storage.",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "areaSqft": "1050",
+    "furnishing": "Semi-Furnished",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Power Backup",
+      "Security",
+      "Lift",
+      "Car Parking",
+      "Gym"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/2bhk-rs-puram.jpg"
+    ],
+    "phone": "+91 9876543210",
+    "ownerName": "Ramesh Kumar",
+    "url": "https://housing.com/in/rent/coimbatore/rs-puram/2bhk",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F02",
+    "name": "3BHK Independent House – Saibaba Colony",
+    "area": "Saibaba Colony, Coimbatore",
+    "locality": "Saibaba Colony",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹28,000/month",
+    "priceRaw": 28000,
+    "description": "Independent 3BHK house with private garden, separate servant quarters, and a spacious terrace. Quiet neighbourhood, ideal for families.",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "areaSqft": "1800",
+    "furnishing": "Fully Furnished",
+    "propertyType": "Independent House",
+    "amenities": [
+      "Garden",
+      "Car Parking",
+      "Terrace",
+      "24/7 Water",
+      "Security"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/3bhk-saibaba-colony.jpg"
+    ],
+    "phone": "+91 9123456789",
+    "ownerName": "Priya Nair",
+    "url": "https://housing.com/in/rent/coimbatore/saibaba-colony/3bhk-house",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F03",
+    "name": "Modern 1BHK Studio – Gandhipuram",
+    "area": "Gandhipuram, Coimbatore",
+    "locality": "Gandhipuram",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹10,500/month",
+    "priceRaw": 10500,
+    "description": "Compact and stylish studio apartment near Gandhipuram bus stand. Ideal for working professionals. High-speed internet ready.",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "areaSqft": "550",
+    "furnishing": "Fully Furnished",
+    "propertyType": "Studio Apartment",
+    "amenities": [
+      "Wi-Fi Ready",
+      "Power Backup",
+      "CCTV",
+      "Lift",
+      "Laundry"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/studio-gandhipuram.jpg"
+    ],
+    "phone": "+91 9988776655",
+    "ownerName": "Anitha Selvam",
+    "url": "https://housing.com/in/rent/coimbatore/gandhipuram/studio",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F04",
+    "name": "2BHK Flat – Peelamedu (Near Airport)",
+    "area": "Peelamedu, Coimbatore",
+    "locality": "Peelamedu",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹16,000/month",
+    "priceRaw": 16000,
+    "description": "Bright 2BHK near Coimbatore International Airport. Close to tech parks & colleges. Covered parking, 24-hr security, and power backup.",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "areaSqft": "975",
+    "furnishing": "Semi-Furnished",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Car Parking",
+      "Power Backup",
+      "Security",
+      "Children's Play Area"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/2bhk-peelamedu.jpg"
+    ],
+    "phone": "+91 9345678901",
+    "ownerName": "Vijay Anand",
+    "url": "https://housing.com/in/rent/coimbatore/peelamedu/2bhk",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F05",
+    "name": "Luxury 3BHK – Race Course Road",
+    "area": "Race Course Road, Coimbatore",
+    "locality": "Race Course",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹45,000/month",
+    "priceRaw": 45000,
+    "description": "Premium 3BHK on prestigious Race Course Road. Premium finishes, modular kitchen, clubhouse access, and rooftop pool.",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "areaSqft": "2200",
+    "furnishing": "Fully Furnished",
+    "propertyType": "Luxury Apartment",
+    "amenities": [
+      "Swimming Pool",
+      "Gym",
+      "Clubhouse",
+      "Concierge",
+      "Valet Parking",
+      "Rooftop Lounge"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/luxury-racecourse.jpg"
+    ],
+    "phone": "+91 9001122334",
+    "ownerName": "Deepika Rajan",
+    "url": "https://housing.com/in/rent/coimbatore/race-course/3bhk-luxury",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F06",
+    "name": "1BHK Apartment – Singanallur",
+    "area": "Singanallur, Coimbatore",
+    "locality": "Singanallur",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹8,500/month",
+    "priceRaw": 8500,
+    "description": "Affordable 1BHK near TNSTC bus depot and local market. Ground floor, easy access, suitable for couples or single professionals.",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "areaSqft": "620",
+    "furnishing": "Unfurnished",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Water 24/7",
+      "Security",
+      "Two-Wheeler Parking"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/1bhk-singanallur.jpg"
+    ],
+    "phone": "+91 9765432100",
+    "ownerName": "Murugan P",
+    "url": "https://housing.com/in/rent/coimbatore/singanallur/1bhk",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F07",
+    "name": "4BHK Villa – Avinashi Road",
+    "area": "Avinashi Road, Coimbatore",
+    "locality": "Avinashi Road",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹60,000/month",
+    "priceRaw": 60000,
+    "description": "Stunning 4BHK villa on Avinashi Road with landscaped garden, private pool, home theatre, and three-car garage. Perfect for large families.",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "areaSqft": "3500",
+    "furnishing": "Fully Furnished",
+    "propertyType": "Villa",
+    "amenities": [
+      "Private Pool",
+      "Home Theatre",
+      "Garden",
+      "3-Car Garage",
+      "Generator",
+      "Security"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/villa-avinashi.jpg"
+    ],
+    "phone": "+91 9800011223",
+    "ownerName": "Suresh Babu",
+    "url": "https://housing.com/in/rent/coimbatore/avinashi-road/4bhk-villa",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F08",
+    "name": "2BHK in Gated Community – Vadavalli",
+    "area": "Vadavalli, Coimbatore",
+    "locality": "Vadavalli",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹14,000/month",
+    "priceRaw": 14000,
+    "description": "2BHK in a well-maintained gated society with parks and clubhouse. Quiet locality with easy access to Walayar highway.",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "areaSqft": "900",
+    "furnishing": "Semi-Furnished",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Clubhouse",
+      "Park",
+      "Power Backup",
+      "Car Parking",
+      "Security"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/2bhk-vadavalli.jpg"
+    ],
+    "phone": "+91 9654321098",
+    "ownerName": "Kavitha Mohan",
+    "url": "https://housing.com/in/rent/coimbatore/vadavalli/2bhk",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F09",
+    "name": "3BHK Penthouse – Ramanathapuram",
+    "area": "Ramanathapuram, Coimbatore",
+    "locality": "Ramanathapuram",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹38,000/month",
+    "priceRaw": 38000,
+    "description": "Top-floor penthouse with panoramic city views, skylight hall, and expansive private terrace. Comes with premium modular kitchen and smart home features.",
+    "bedrooms": "3",
+    "bathrooms": "4",
+    "areaSqft": "2600",
+    "furnishing": "Fully Furnished",
+    "propertyType": "Penthouse",
+    "amenities": [
+      "Terrace",
+      "Smart Home",
+      "Gym",
+      "Jacuzzi",
+      "Car Parking",
+      "Lift"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/penthouse-ramanathapuram.jpg"
+    ],
+    "phone": "+91 9711223344",
+    "ownerName": "Arjun Krishnamurthy",
+    "url": "https://housing.com/in/rent/coimbatore/ramanathapuram/penthouse",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F10",
+    "name": "Budget 1BHK – Ukkadam",
+    "area": "Ukkadam, Coimbatore",
+    "locality": "Ukkadam",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹7,000/month",
+    "priceRaw": 7000,
+    "description": "Economical 1BHK near Ukkadam lake. Ground floor with direct road access, suitable for students and individuals on a budget.",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "areaSqft": "480",
+    "furnishing": "Unfurnished",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Water Supply",
+      "Two-Wheeler Parking"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/1bhk-ukkadam.jpg"
+    ],
+    "phone": "+91 9500987654",
+    "ownerName": "Mahalakshmi K",
+    "url": "https://housing.com/in/rent/coimbatore/ukkadam/1bhk",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F11",
+    "name": "2BHK Near PSGCT – Peelamedu",
+    "area": "Peelamedu, Coimbatore",
+    "locality": "Peelamedu",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹15,500/month",
+    "priceRaw": 15500,
+    "description": "Well-lit 2BHK walking distance from PSG College of Technology. Ideal for faculty or families of students.",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "areaSqft": "980",
+    "furnishing": "Semi-Furnished",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Power Backup",
+      "Security",
+      "Lift",
+      "Car Parking"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/2bhk-psgct.jpg"
+    ],
+    "phone": "+91 9445566778",
+    "ownerName": "Balasubramanian S",
+    "url": "https://housing.com/in/rent/coimbatore/peelamedu/2bhk-psgct",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F12",
+    "name": "Cozy 2BHK – Tidel Park Area",
+    "area": "Tidel Park, Coimbatore",
+    "locality": "Tidel Park",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹20,000/month",
+    "priceRaw": 20000,
+    "description": "Freshly painted 2BHK near Coimbatore Tidel Park IT zone. Perfect for software professionals. Broadband and DTH provisions included.",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "areaSqft": "1100",
+    "furnishing": "Semi-Furnished",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Broadband Ready",
+      "CCTV",
+      "Power Backup",
+      "Lift",
+      "Car Parking"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/2bhk-tidel-park.jpg"
+    ],
+    "phone": "+91 9333222111",
+    "ownerName": "Sneha IT Properties",
+    "url": "https://housing.com/in/rent/coimbatore/tidel-park/2bhk",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F13",
+    "name": "3BHK Independent House – Kovaipudur",
+    "area": "Kovaipudur, Coimbatore",
+    "locality": "Kovaipudur",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹25,000/month",
+    "priceRaw": 25000,
+    "description": "Spacious independent house on hill slope with mountain views. Open kitchen, balcony, private parking, and rainwater harvesting.",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "areaSqft": "1650",
+    "furnishing": "Partially Furnished",
+    "propertyType": "Independent House",
+    "amenities": [
+      "Garden",
+      "Parking",
+      "Rainwater Harvesting",
+      "Mountain View"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/house-kovaipudur.jpg"
+    ],
+    "phone": "+91 9876001234",
+    "ownerName": "Thomas George",
+    "url": "https://housing.com/in/rent/coimbatore/kovaipudur/3bhk-house",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F14",
+    "name": "1BHK with Balcony – Hopes College Area",
+    "area": "Hopes College, Coimbatore",
+    "locality": "Hopes College",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹9,500/month",
+    "priceRaw": 9500,
+    "description": "Bright 1BHK with large balcony near Hopes College. Eastern-facing, well-ventilated. Suitable for students and working individuals.",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "areaSqft": "650",
+    "furnishing": "Semi-Furnished",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Balcony",
+      "Security",
+      "Power Backup"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/1bhk-hopes-college.jpg"
+    ],
+    "phone": "+91 9944332211",
+    "ownerName": "Selvaraj P",
+    "url": "https://housing.com/in/rent/coimbatore/hopes-college/1bhk",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F15",
+    "name": "Duplex 4BHK – Saravanampatti",
+    "area": "Saravanampatti, Coimbatore",
+    "locality": "Saravanampatti",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹42,000/month",
+    "priceRaw": 42000,
+    "description": "Upscale duplex in rapidly developing Saravanampatti IT corridor. Two floors with private staircase, terrace garden, and premium interiors.",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "areaSqft": "3000",
+    "furnishing": "Fully Furnished",
+    "propertyType": "Duplex",
+    "amenities": [
+      "Terrace Garden",
+      "Gym",
+      "Modular Kitchen",
+      "Smart Lighting",
+      "2-Car Garage"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/duplex-saravanampatti.jpg"
+    ],
+    "phone": "+91 9701234567",
+    "ownerName": "Narayanan V",
+    "url": "https://housing.com/in/rent/coimbatore/saravanampatti/4bhk-duplex",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F16",
+    "name": "Affordable 2BHK – Ondipudur",
+    "area": "Ondipudur, Coimbatore",
+    "locality": "Ondipudur",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹11,000/month",
+    "priceRaw": 11000,
+    "description": "Value-for-money 2BHK near Ondipudur flyover. Close to NH-544, ideal for commuters. Society with 24/7 security and water supply.",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "areaSqft": "800",
+    "furnishing": "Unfurnished",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Security",
+      "Water 24/7",
+      "Two-Wheeler Parking"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/2bhk-ondipudur.jpg"
+    ],
+    "phone": "+91 9566778899",
+    "ownerName": "Velu Raj",
+    "url": "https://housing.com/in/rent/coimbatore/ondipudur/2bhk",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F17",
+    "name": "2BHK with Study Room – Sowripalayam",
+    "area": "Sowripalayam, Coimbatore",
+    "locality": "Sowripalayam",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹17,000/month",
+    "priceRaw": 17000,
+    "description": "Unique 2BHK with dedicated study/work-from-home room. Laminate flooring, modular wardrobes, and covered parking.",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "areaSqft": "1050",
+    "furnishing": "Semi-Furnished",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Study Room",
+      "Car Parking",
+      "Lift",
+      "Power Backup",
+      "Gated Society"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/2bhk-sowripalayam.jpg"
+    ],
+    "phone": "+91 9487654321",
+    "ownerName": "Padmini Ayyasamy",
+    "url": "https://housing.com/in/rent/coimbatore/sowripalayam/2bhk-study",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F18",
+    "name": "3BHK Corner Flat – Ganapathy",
+    "area": "Ganapathy, Coimbatore",
+    "locality": "Ganapathy",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹22,000/month",
+    "priceRaw": 22000,
+    "description": "Corner flat with excellent cross-ventilation and two-side openings. Close to Ganapathy bus terminus and vegetable market.",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "areaSqft": "1350",
+    "furnishing": "Semi-Furnished",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Corner Unit",
+      "Cross-Ventilation",
+      "Car Parking",
+      "Lift",
+      "Security"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/3bhk-ganapathy.jpg"
+    ],
+    "phone": "+91 9345123456",
+    "ownerName": "Munsif Ahamed",
+    "url": "https://housing.com/in/rent/coimbatore/ganapathy/3bhk",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F19",
+    "name": "1BHK Service Apartment – Coimbatore Junction",
+    "area": "Coimbatore Junction, Coimbatore",
+    "locality": "Coimbatore Junction",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹13,000/month",
+    "priceRaw": 13000,
+    "description": "Fully serviced 1BHK near Coimbatore Railway Junction. Housekeeping, linen change, and 24/7 reception included.",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "areaSqft": "500",
+    "furnishing": "Fully Furnished",
+    "propertyType": "Service Apartment",
+    "amenities": [
+      "Housekeeping",
+      "Reception 24/7",
+      "Linen",
+      "Wi-Fi",
+      "Breakfast Optional"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/service-apt-junction.jpg"
+    ],
+    "phone": "+91 9223344556",
+    "ownerName": "CityStay Rentals",
+    "url": "https://housing.com/in/rent/coimbatore/junction/service-apartment",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F20",
+    "name": "3BHK Premium Flat – Trichy Road",
+    "area": "Trichy Road, Coimbatore",
+    "locality": "Trichy Road",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹32,000/month",
+    "priceRaw": 32000,
+    "description": "Premium 3BHK along Trichy Road with great highway connectivity. High-rise building with infinity pool, business lounge, and concierge desk.",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "areaSqft": "1900",
+    "furnishing": "Fully Furnished",
+    "propertyType": "Premium Apartment",
+    "amenities": [
+      "Infinity Pool",
+      "Business Lounge",
+      "Gym",
+      "Concierge",
+      "3-Tier Security",
+      "EV Charging"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/premium-trichy-road.jpg"
+    ],
+    "phone": "+91 9100223344",
+    "ownerName": "Meenakshi Builders",
+    "url": "https://housing.com/in/rent/coimbatore/trichy-road/3bhk-premium",
+    "source": "Housing.com (curated)"
+  }
+]

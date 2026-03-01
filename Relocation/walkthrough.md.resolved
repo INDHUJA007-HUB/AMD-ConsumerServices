@@ -1,0 +1,32 @@
+# Walkthrough - NammaWay AI Proposed System
+
+I have completed the comprehensive implementation plan for **NammaWay AI**. This walkthrough summarizes the proposed solution and how it addresses the 'City Survival Engine' requirements for Coimbatore.
+
+## 1. System Overview
+The system transforms raw datasets into actionable relocation advice using a multi-layered AI architecture.
+
+### Key Logic Implemented (Conceptual)
+1.  **Data Fusion**: Merging 5 datasets (GPS, Bus, Zomato, Numbeo, PGs) into a unified **Master Feature Table**.
+2.  **MCDA Scorer**: A Multi-Criteria Decision Analysis engine that ranks accommodations based on a balance of Budget, Commute, and Amenities.
+3.  **Explainable AI**: Piping technical scores into Gemini for human-readable "Survival Summaries".
+
+## 2. Technical Artifacts Created
+
+````carousel
+```mermaid
+graph TD
+    User --> FE[Feature Engineering]
+    FE --> MFT[Master Table]
+    MFT --> DIE[Decision Engine]
+    DIE --> Gemini[Explainable AI]
+```
+<!-- slide -->
+[Implementation Plan](file:///C:/Users/haris/.gemini/antigravity/brain/b6a0b50a-8056-410f-b0ba-d1709e0c9e02/implementation_plan.md)
+<!-- slide -->
+[Technical Roadmap](file:///C:/Users/haris/.gemini/antigravity/brain/b6a0b50a-8056-410f-b0ba-d1709e0c9e02/technical_roadmap.md)
+````
+
+## 3. Next Steps for Implementation
+1.  **Environment Setup**: Install `pandas`, `xgboost`, and `google-generativeai`.
+2.  **Dataset Cleansing**: Process the "Call for Price" entries in the PG/House datasets.
+3.  **Engine Development**: Implement the Python logic snippets provided in the [Technical Roadmap](file:///C:/Users/haris/.gemini/antigravity/brain/b6a0b50a-8056-410f-b0ba-d1709e0c9e02/technical_roadmap.md).

@@ -1,0 +1,5305 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-26T16:51:31Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/66102343",
+        "amenity": "college",
+        "name": "Tamilnadu Forest Academy",
+        "name:ml": "തമിഴ്നാട് വന അക്കാദമി",
+        "name:ta": "தமிழ்நாடு வன அகாடமி"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9498381,
+              11.0197926
+            ],
+            [
+              76.9389295,
+              11.0193318
+            ],
+            [
+              76.942352,
+              11.0137398
+            ],
+            [
+              76.9434464,
+              11.0145718
+            ],
+            [
+              76.9542825,
+              11.0156775
+            ],
+            [
+              76.9539928,
+              11.0165832
+            ],
+            [
+              76.953392,
+              11.0165516
+            ],
+            [
+              76.9531238,
+              11.0166148
+            ],
+            [
+              76.9530058,
+              11.0168412
+            ],
+            [
+              76.9529897,
+              11.0171835
+            ],
+            [
+              76.9531399,
+              11.0175363
+            ],
+            [
+              76.95351,
+              11.0179733
+            ],
+            [
+              76.953396,
+              11.0184064
+            ],
+            [
+              76.9526651,
+              11.0183946
+            ],
+            [
+              76.9512208,
+              11.0183814
+            ],
+            [
+              76.9498475,
+              11.0183353
+            ],
+            [
+              76.9498488,
+              11.0190764
+            ],
+            [
+              76.9496289,
+              11.0190686
+            ],
+            [
+              76.9496235,
+              11.019603
+            ],
+            [
+              76.9498408,
+              11.0196056
+            ],
+            [
+              76.9498381,
+              11.0197926
+            ]
+          ]
+        ]
+      },
+      "id": "way/66102343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/66117845",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9459442,
+              11.0056924
+            ],
+            [
+              76.9461937,
+              11.0050112
+            ],
+            [
+              76.9474775,
+              11.0037667
+            ],
+            [
+              76.9500932,
+              11.004143
+            ],
+            [
+              76.9498451,
+              11.006135
+            ],
+            [
+              76.9459442,
+              11.0056924
+            ]
+          ]
+        ]
+      },
+      "id": "way/66117845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/66292232",
+        "amenity": "place_of_worship",
+        "name": "Tipu Masjid",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9535114,
+              11.0084687
+            ],
+            [
+              76.9537517,
+              11.0070065
+            ],
+            [
+              76.9553134,
+              11.0072423
+            ],
+            [
+              76.9550732,
+              11.0087046
+            ],
+            [
+              76.9535114,
+              11.0084687
+            ]
+          ]
+        ]
+      },
+      "id": "way/66292232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/133360789",
+        "amenity": "school",
+        "name": "Nehru maha vidhyalaya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9434829,
+              11.0074325
+            ],
+            [
+              76.9436022,
+              11.006331
+            ],
+            [
+              76.9446641,
+              11.0064469
+            ],
+            [
+              76.944453,
+              11.0073715
+            ],
+            [
+              76.9440697,
+              11.0072856
+            ],
+            [
+              76.9440383,
+              11.0075501
+            ],
+            [
+              76.9434829,
+              11.0074325
+            ]
+          ]
+        ]
+      },
+      "id": "way/133360789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/133368414",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9570952,
+              11.0127302
+            ],
+            [
+              76.9576013,
+              11.011233
+            ],
+            [
+              76.9586106,
+              11.011248
+            ],
+            [
+              76.9579079,
+              11.012617
+            ],
+            [
+              76.9578212,
+              11.0127916
+            ],
+            [
+              76.9570952,
+              11.0127302
+            ]
+          ]
+        ]
+      },
+      "id": "way/133368414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/134041779",
+        "amenity": "public_building",
+        "building": "yes",
+        "name": "IMA Hall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9609504,
+              11.0057624
+            ],
+            [
+              76.9612427,
+              11.0058045
+            ],
+            [
+              76.9611462,
+              11.0059256
+            ],
+            [
+              76.9609504,
+              11.0057624
+            ]
+          ]
+        ]
+      },
+      "id": "way/134041779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293066627",
+        "amenity": "school",
+        "name": "Devanga High School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9586973,
+              11.0068576
+            ],
+            [
+              76.9594239,
+              11.0069658
+            ],
+            [
+              76.9593831,
+              11.0072138
+            ],
+            [
+              76.9598639,
+              11.0076497
+            ],
+            [
+              76.9586172,
+              11.0092094
+            ],
+            [
+              76.9585031,
+              11.0091934
+            ],
+            [
+              76.9585851,
+              11.0079768
+            ],
+            [
+              76.9583027,
+              11.0079174
+            ],
+            [
+              76.958478,
+              11.0075639
+            ],
+            [
+              76.9585102,
+              11.0074989
+            ],
+            [
+              76.9586973,
+              11.0068576
+            ]
+          ]
+        ]
+      },
+      "id": "way/293066627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/501930655",
+        "amenity": "library",
+        "building": "yes",
+        "name": "District Central Library"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9479987,
+              11.0148399
+            ],
+            [
+              76.9480719,
+              11.014345
+            ],
+            [
+              76.9486329,
+              11.0144169
+            ],
+            [
+              76.9485557,
+              11.0149077
+            ],
+            [
+              76.9479987,
+              11.0148399
+            ]
+          ]
+        ]
+      },
+      "id": "way/501930655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/588412148",
+        "leisure": "park",
+        "name": "Corporation Park"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9581922,
+              11.004681
+            ],
+            [
+              76.9583209,
+              11.0038174
+            ],
+            [
+              76.9588573,
+              11.0039043
+            ],
+            [
+              76.9588332,
+              11.0048469
+            ],
+            [
+              76.9581922,
+              11.004681
+            ]
+          ]
+        ]
+      },
+      "id": "way/588412148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593359211",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "brand:wikipedia": "en:Hindustan Petroleum",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum",
+        "opening_hours": "Mo-Su 06:00-22:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9545612,
+              11.0137124
+            ],
+            [
+              76.9545692,
+              11.0134991
+            ],
+            [
+              76.9546738,
+              11.0135097
+            ],
+            [
+              76.9546819,
+              11.0134755
+            ],
+            [
+              76.9547623,
+              11.0134939
+            ],
+            [
+              76.9547382,
+              11.0137387
+            ],
+            [
+              76.9545612,
+              11.0137124
+            ]
+          ]
+        ]
+      },
+      "id": "way/593359211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1240248298",
+        "addr:city": "கோயம்புத்தூர்",
+        "addr:housenumber": "E",
+        "addr:postcode": "641009",
+        "addr:street": "Cross Cut Road",
+        "building": "yes",
+        "name": "White Data Systems Pvt Ltd",
+        "name:en": "White Data Systems Pvt Ltd",
+        "office": "it",
+        "opening_hours": "Mo-Fr 09:30-18:00",
+        "source": "microsoft/BuildingFootprints",
+        "website": "http://www.iloads.in/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.960113,
+              11.0165308
+            ],
+            [
+              76.9598985,
+              11.0165266
+            ],
+            [
+              76.9599017,
+              11.0163661
+            ],
+            [
+              76.9601162,
+              11.0163703
+            ],
+            [
+              76.960113,
+              11.0165308
+            ]
+          ]
+        ]
+      },
+      "id": "way/1240248298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1447877769",
+        "amenity": "school",
+        "education": "school",
+        "name": "Bharathiya Vidya Bhavan Matric Higher Secondary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9493925,
+              11.0131163
+            ],
+            [
+              76.9494495,
+              11.0127201
+            ],
+            [
+              76.9499655,
+              11.0127806
+            ],
+            [
+              76.9498916,
+              11.0131889
+            ],
+            [
+              76.9493925,
+              11.0131163
+            ]
+          ]
+        ]
+      },
+      "id": "way/1447877769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/246761183",
+        "amenity": "theatre",
+        "name": "Central Theater",
+        "name:ta": "சென்ட்ரல் திரையரங்கம்"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9554227,
+          11.0157841
+        ]
+      },
+      "id": "node/246761183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330069938",
+        "amenity": "school",
+        "name": "Corporation Boys High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9474178,
+          11.0049837
+        ]
+      },
+      "id": "node/330069938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330069956",
+        "amenity": "school",
+        "name": "Corporaton School for Deaf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9494051,
+          11.0056048
+        ]
+      },
+      "id": "node/330069956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330069959",
+        "leisure": "pitch",
+        "name": "Buial Ground AKA Sastri Maidhanam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9490231,
+          11.0065984
+        ]
+      },
+      "id": "node/330069959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330069961",
+        "amenity": "place_of_worship",
+        "check_date": "2024-10-24",
+        "name": "Kamatchiamman Temple",
+        "name:ta": "ஸ்ரீ காமாட்சி அம்பாள் கோவில்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9454998,
+          11.0095838
+        ]
+      },
+      "id": "node/330069961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330069964",
+        "amenity": "post_office",
+        "check_date": "2024-10-24",
+        "name": "Head Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.950568,
+          11.0106209
+        ]
+      },
+      "id": "node/330069964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330069969",
+        "amenity": "school",
+        "name": "SRP Ponnuswamy Chettiar Sundrammal Vidhyalaya Matric School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9468444,
+          11.0131455
+        ]
+      },
+      "id": "node/330069969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330069972",
+        "amenity": "school",
+        "name": "Vidya Vriksha Play School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9486042,
+          11.0106805
+        ]
+      },
+      "id": "node/330069972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330069977",
+        "name": "Uzhavar Sandhai",
+        "name:ta": "உழவர் சந்தை",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9444254,
+          11.0143296
+        ]
+      },
+      "id": "node/330069977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330069980",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Saravana Dental Care Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9513725,
+          11.0028292
+        ]
+      },
+      "id": "node/330069980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330070075",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Senthil Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9578034,
+          11.0089752
+        ]
+      },
+      "id": "node/330070075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/343436818",
+        "amenity": "school",
+        "name": "Kikani Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9579425,
+          11.0115779
+        ]
+      },
+      "id": "node/343436818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/343436821",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sengaliappan Nursing Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.955239,
+          11.0165542
+        ]
+      },
+      "id": "node/343436821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/343437123",
+        "amenity": "cinema",
+        "name": "Maruti Theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9539019,
+          11.0143859
+        ]
+      },
+      "id": "node/343437123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/343438043",
+        "amenity": "school",
+        "name": "Coporation Girls Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9608378,
+          11.0137003
+        ]
+      },
+      "id": "node/343438043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/346037148",
+        "amenity": "school",
+        "name": "RS Puram Corporation Girls High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9469568,
+          11.0102989
+        ]
+      },
+      "id": "node/346037148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/436772692",
+        "leisure": "sports_centre",
+        "name": "Coimbatore District Tennis Association Courts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9489287,
+          11.0071376
+        ]
+      },
+      "id": "node/436772692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/803667755",
+        "amenity": "cinema",
+        "name": "Archana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9566829,
+          11.006464
+        ]
+      },
+      "id": "node/803667755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/832767566",
+        "addr:district": "Coimbatore",
+        "addr:full": "# 2 Swarnambika Lay-Out,Ramnagar",
+        "addr:postcode": "641009",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ganga Medical Centre and Hospitals Pvt. Ltd ,Ramnagar",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9594235,
+          11.0158724
+        ]
+      },
+      "id": "node/832767566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/832768798",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Krishna Nursing Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9593766,
+          11.0152327
+        ]
+      },
+      "id": "node/832768798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/832773963",
+        "addr:postcode": "641110",
+        "addr:street": "Patel Road",
+        "name": "Spencers",
+        "organic": "yes",
+        "shop": "supermarket",
+        "website": "http://www.spencersretail.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9579314,
+          11.0170651
+        ]
+      },
+      "id": "node/832773963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1298295874",
+        "amenity": "cinema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9541249,
+          11.0070121
+        ]
+      },
+      "id": "node/1298295874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1314032284",
+        "addr:housename": "Arvind Towers",
+        "addr:housenumber": "700",
+        "addr:postcode": "641002",
+        "addr:street": "DB road",
+        "amenity": "restaurant",
+        "cuisine": "ice_cream",
+        "name": "Bon Bon Ice Creams"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9508118,
+          11.0068841
+        ]
+      },
+      "id": "node/1314032284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1464278747",
+        "amenity": "library",
+        "name": "District Central Library",
+        "name:ta": "மாவட்ட மைய நூலகம்",
+        "opening_hours": "Sa-Th 08:00-20:00; Fr off; PH off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9481215,
+          11.0149429
+        ]
+      },
+      "id": "node/1464278747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1464278789",
+        "addr:district": "Coimbatore",
+        "addr:full": "#1091, Mettupalayam Road ,North Coimbatore Bus Stop",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Coimbatore Bone and Joint Foundation (P) Ltd.",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9543844,
+          11.0149404
+        ]
+      },
+      "id": "node/1464278789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1464770544",
+        "addr:floor": "G",
+        "amenity": "cafe",
+        "brand": "Cafe Coffee Day",
+        "brand:wikidata": "Q5017235",
+        "brand:wikipedia": "en:Café Coffee Day",
+        "check_date": "2024-10-24",
+        "cuisine": "coffee_shop",
+        "level": "0",
+        "name": "Cafe Coffee Day",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9475317,
+          11.0095371
+        ]
+      },
+      "id": "node/1464770544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1466790634",
+        "name": "Giriyaas",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.960139,
+          11.0168427
+        ]
+      },
+      "id": "node/1466790634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472205012",
+        "amenity": "school",
+        "name": "Suburban Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9609421,
+          11.0129282
+        ]
+      },
+      "id": "node/1472205012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472205751",
+        "amenity": "school",
+        "name": "North Coimbatore Corporation Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.958268,
+          11.0154056
+        ]
+      },
+      "id": "node/1472205751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472211166",
+        "amenity": "place_of_worship",
+        "name": "Murugan Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9436875,
+          11.0145684
+        ]
+      },
+      "id": "node/1472211166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472211318",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Vega ENT Hospitals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9437894,
+          11.0144183
+        ]
+      },
+      "id": "node/1472211318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472211741",
+        "addr:district": "Coimbatore",
+        "addr:full": "R S Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sitalakshmi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9449521,
+          11.0142906
+        ]
+      },
+      "id": "node/1472211741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472212062",
+        "addr:district": "Coimbatore",
+        "addr:full": "R S Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Manonmani Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9475002,
+          11.0147975
+        ]
+      },
+      "id": "node/1472212062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472212557",
+        "addr:district": "Coimbatore",
+        "addr:full": "48, Cowley Brown Road, R.S. Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "multi speciality",
+        "name": "Balaji Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9487649,
+          11.0148238
+        ]
+      },
+      "id": "node/1472212557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472212892",
+        "addr:street": "Cowley Brown Road",
+        "amenity": "bank",
+        "brand": "Syndicate Bank",
+        "brand:wikidata": "Q2004088",
+        "brand:wikipedia": "en:Syndicate Bank",
+        "name": "Syndicate Bank",
+        "name:en": "Syndicate Bank",
+        "website": "https://www.syndicatebank.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.949178,
+          11.015145
+        ]
+      },
+      "id": "node/1472212892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472213670",
+        "addr:street": "Cowley Brown Road",
+        "amenity": "bank",
+        "brand": "HDFC Bank",
+        "brand:wikidata": "Q631047",
+        "brand:wikipedia": "en:HDFC Bank",
+        "name": "HDFC Bank",
+        "short_name": "HDFC",
+        "website": "https://www.hdfcbank.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9493657,
+          11.0147422
+        ]
+      },
+      "id": "node/1472213670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472215145",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Preetam's Cardio Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9498136,
+          11.0152003
+        ]
+      },
+      "id": "node/1472215145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472215560",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Kumaran Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9519379,
+          11.0152582
+        ]
+      },
+      "id": "node/1472215560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472216490",
+        "amenity": "theatre",
+        "name": "kalaiarangam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9508764,
+          11.0100628
+        ]
+      },
+      "id": "node/1472216490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472216491",
+        "amenity": "restaurant",
+        "name": "Peking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9501279,
+          11.0095746
+        ]
+      },
+      "id": "node/1472216491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472216492",
+        "check_date": "2024-10-24",
+        "name": "Brocade",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9503693,
+          11.0095879
+        ]
+      },
+      "id": "node/1472216492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472216493",
+        "name": "DanielHechter",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9501269,
+          11.0099817
+        ]
+      },
+      "id": "node/1472216493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472216494",
+        "check_date": "2024-10-24",
+        "name": "Crocodile",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9503052,
+          11.0100389
+        ]
+      },
+      "id": "node/1472216494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472230496",
+        "amenity": "atm",
+        "fee": "TMB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9504284,
+          11.0080828
+        ]
+      },
+      "id": "node/1472230496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472230498",
+        "amenity": "bank",
+        "brand": "State Bank of India",
+        "brand:wikidata": "Q1340361",
+        "brand:wikipedia": "en:State Bank of India",
+        "name": "State Bank of India",
+        "short_name": "SBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9503748,
+          11.0083883
+        ]
+      },
+      "id": "node/1472230498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472230508",
+        "amenity": "bank",
+        "brand": "State Bank of India",
+        "brand:wikidata": "Q1340361",
+        "brand:wikipedia": "en:State Bank of India",
+        "name": "State Bank of India",
+        "short_name": "SBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9505786,
+          11.008562
+        ]
+      },
+      "id": "node/1472230508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472230510",
+        "check_date": "2024-10-24",
+        "name": "Bombay Dyeing",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9508404,
+          11.0089248
+        ]
+      },
+      "id": "node/1472230510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472230516",
+        "amenity": "atm",
+        "fee": "SBI ATM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9501164,
+          11.0097609
+        ]
+      },
+      "id": "node/1472230516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472230522",
+        "addr:district": "Coimbatore",
+        "addr:full": "558, D B Road R S Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Coimbatore South",
+        "amenity": "hospital",
+        "check_date": "2024-10-24",
+        "healthcare": "hospital",
+        "name": "Rasi Hospital",
+        "name:ta": "ராசி மருத்துவமனை",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9503293,
+          11.0097731
+        ]
+      },
+      "id": "node/1472230522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472230524",
+        "name": "Aroma bakery",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9510389,
+          11.0085602
+        ]
+      },
+      "id": "node/1472230524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472230527",
+        "check_date": "2024-10-24",
+        "name": "Ayyar & Co Pure Veg Bakery & Cake Shop",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9504929,
+          11.0087727
+        ]
+      },
+      "id": "node/1472230527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472230529",
+        "amenity": "bank",
+        "brand": "Tamilnad Mercantile Bank Limited",
+        "brand:wikidata": "Q2044991",
+        "check_date": "2024-10-24",
+        "name": "Tamilnad Mercantile Bank Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9506101,
+          11.0083882
+        ]
+      },
+      "id": "node/1472230529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472230531",
+        "name": "SKC-Sri Krishna Collection cloth store",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9502917,
+          11.0089111
+        ]
+      },
+      "id": "node/1472230531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472230540",
+        "check_date": "2024-10-24",
+        "name": "Aroma Bakery",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9506846,
+          11.0097345
+        ]
+      },
+      "id": "node/1472230540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472231440",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9510775,
+          11.0083777
+        ]
+      },
+      "id": "node/1472231440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472237759",
+        "name": "VANDHANA",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9509568,
+          11.0078372
+        ]
+      },
+      "id": "node/1472237759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472237761",
+        "name": "INDIGO NATION",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9511418,
+          11.0081881
+        ]
+      },
+      "id": "node/1472237761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472237764",
+        "name": "JOHN PLAYERS",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9511901,
+          11.0079406
+        ]
+      },
+      "id": "node/1472237764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472237765",
+        "name": "K.R.S BAKERY",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9507503,
+          11.007372
+        ]
+      },
+      "id": "node/1472237765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472237766",
+        "amenity": "restaurant",
+        "name": "SUGAM HOTELS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9512534,
+          11.0077385
+        ]
+      },
+      "id": "node/1472237766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472237767",
+        "amenity": "restaurant",
+        "name": "ANANDHAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9512706,
+          11.0085515
+        ]
+      },
+      "id": "node/1472237767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472237768",
+        "name": "MILOU",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.950938,
+          11.0080723
+        ]
+      },
+      "id": "node/1472237768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472237769",
+        "amenity": "bank",
+        "brand": "Standard Chartered",
+        "brand:wikidata": "Q548278",
+        "name": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9505732,
+          11.0069823
+        ]
+      },
+      "id": "node/1472237769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472617905",
+        "name": "PAZHAMUDIR NILAYAM",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9513299,
+          11.0070126
+        ]
+      },
+      "id": "node/1472617905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472618252",
+        "name": "LEE & WRANGLER",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9513508,
+          11.0067493
+        ]
+      },
+      "id": "node/1472618252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472618253",
+        "amenity": "fast_food",
+        "name": "HOTCHIPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9511475,
+          11.0068225
+        ]
+      },
+      "id": "node/1472618253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472618255",
+        "addr:floor": "G",
+        "air_conditioning": "no",
+        "amenity": "place_of_worship",
+        "check_date": "2023-01-29",
+        "level": "0",
+        "name": "RathnaVinayagar Temple",
+        "name:ta": "ரத்தின விநாயகர் திருக்கோவில்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9508036,
+          11.0065492
+        ]
+      },
+      "id": "node/1472618255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472619293",
+        "amenity": "bank",
+        "brand": "Indian Overseas Bank",
+        "brand:wikidata": "Q2003611",
+        "brand:wikipedia": "en:Indian Overseas Bank",
+        "name": "Indian Overseas Bank",
+        "name:en": "Indian Overseas Bank",
+        "short_name": "IOB",
+        "website": "https://www.iob.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9513969,
+          11.0063886
+        ]
+      },
+      "id": "node/1472619293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472619294",
+        "amenity": "restaurant",
+        "name": "ANNAPOORNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9516839,
+          11.0069705
+        ]
+      },
+      "id": "node/1472619294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472619295",
+        "name": "RAMRAJ COTTONS",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9512038,
+          11.0062406
+        ]
+      },
+      "id": "node/1472619295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472619296",
+        "brand": "Puma",
+        "brand:wikidata": "Q157064",
+        "name": "Puma",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9516544,
+          11.006526
+        ]
+      },
+      "id": "node/1472619296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472619297",
+        "amenity": "fast_food",
+        "name": "A1 CHIPS",
+        "wikimedia_commons": "File:Bollard RS Puram.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9512011,
+          11.0065592
+        ]
+      },
+      "id": "node/1472619297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472619299",
+        "amenity": "restaurant",
+        "name": "AARYAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9509109,
+          11.0058963
+        ]
+      },
+      "id": "node/1472619299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472619300",
+        "amenity": "atm",
+        "brand": "Indian Overseas Bank",
+        "brand:wikidata": "Q2003611",
+        "name": "Indian Overseas Bank",
+        "operator": "Indian Overseas Bank",
+        "operator:wikidata": "Q2003611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9511716,
+          11.0063886
+        ]
+      },
+      "id": "node/1472619300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472619303",
+        "name": "BENWOODS",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9514179,
+          11.0061153
+        ]
+      },
+      "id": "node/1472619303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472620151",
+        "leisure": "sports_centre",
+        "name": "PASH SPA AND UNISEX SALOON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9516727,
+          11.0051801
+        ]
+      },
+      "id": "node/1472620151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472620152",
+        "brand": "Gold's Gym",
+        "brand:wikidata": "Q1536234",
+        "brand:wikipedia": "en:Gold's Gym",
+        "leisure": "fitness_centre",
+        "name": "Gold's Gym"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9514259,
+          11.0051275
+        ]
+      },
+      "id": "node/1472620152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472620153",
+        "brand": "United Colors of Benetton",
+        "brand:wikidata": "Q817139",
+        "brand:wikipedia": "en:Benetton Group",
+        "name": "United Colors of Benetton",
+        "shop": "clothes",
+        "short_name": "Benetton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9513723,
+          11.0052538
+        ]
+      },
+      "id": "node/1472620153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472620586",
+        "name": "CO-OPTEX",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9511041,
+          11.0048431
+        ]
+      },
+      "id": "node/1472620586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472620587",
+        "amenity": "atm",
+        "brand": "Indian Bank",
+        "brand:wikidata": "Q2003789",
+        "brand:wikipedia": "en:Indian Bank",
+        "name": "Indian Bank",
+        "operator": "Indian Bank",
+        "operator:wikidata": "Q2003789",
+        "operator:wikipedia": "en:Indian Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9510858,
+          11.0050827
+        ]
+      },
+      "id": "node/1472620587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472620588",
+        "amenity": "bank",
+        "brand": "Indian Bank",
+        "brand:wikidata": "Q2003789",
+        "brand:wikipedia": "en:Indian Bank",
+        "name": "Indian Bank",
+        "name:en": "Indian Bank",
+        "website": "https://www.indianbank.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9507929,
+          11.0050959
+        ]
+      },
+      "id": "node/1472620588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472620589",
+        "amenity": "bank",
+        "brand": "ICICI Bank",
+        "brand:wikidata": "Q1653258",
+        "brand:wikipedia": "en:ICICI Bank",
+        "name": "ICICI Bank",
+        "short_name": "ICICI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9511041,
+          11.005296
+        ]
+      },
+      "id": "node/1472620589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472620619",
+        "name": "JACK & JILL",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9515868,
+          11.0040638
+        ]
+      },
+      "id": "node/1472620619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472620620",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Araya Vaidya Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.951619,
+          11.0038847
+        ]
+      },
+      "id": "node/1472620620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472620621",
+        "name": "WEEKENDER",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9516083,
+          11.0042112
+        ]
+      },
+      "id": "node/1472620621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472703562",
+        "amenity": "bank",
+        "branch": "VYSYA",
+        "brand": "ING",
+        "brand:wikidata": "Q645708",
+        "brand:wikipedia": "en:ING Group",
+        "name": "ING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9512328,
+          11.0038637
+        ]
+      },
+      "id": "node/1472703562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472703564",
+        "amenity": "restaurant",
+        "brand": "Pizza Hut",
+        "brand:wikidata": "Q191615",
+        "brand:wikipedia": "en:Pizza Hut",
+        "cuisine": "pizza",
+        "name": "Pizza Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.951383,
+          11.0033266
+        ]
+      },
+      "id": "node/1472703564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472703565",
+        "amenity": "bank",
+        "brand": "Karnataka Bank",
+        "brand:wikidata": "Q2042632",
+        "brand:wikipedia": "en:Karnataka Bank",
+        "name": "Karnataka Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9514152,
+          11.0025894
+        ]
+      },
+      "id": "node/1472703565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472703568",
+        "brand": "Allen Solly",
+        "brand:wikidata": "Q110036995",
+        "name": "Allen Solly",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9511684,
+          11.0042533
+        ]
+      },
+      "id": "node/1472703568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472703570",
+        "amenity": "bank",
+        "brand": "State Bank of India",
+        "brand:wikidata": "Q1340361",
+        "brand:wikipedia": "en:State Bank of India",
+        "name": "State Bank of India",
+        "short_name": "SBI",
+        "website": "https://www.sbi.co.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9519624,
+          11.0035688
+        ]
+      },
+      "id": "node/1472703570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472703571",
+        "brand": "Peter England",
+        "brand:wikidata": "Q19573665",
+        "clothes": "men",
+        "name": "Peter England",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9512006,
+          11.0040638
+        ]
+      },
+      "id": "node/1472703571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472703572",
+        "amenity": "bank",
+        "brand": "Bank of India",
+        "brand:wikidata": "Q2004439",
+        "brand:wikipedia": "en:Bank of India",
+        "name": "Bank of India",
+        "name:en": "Bank of India",
+        "short_name": "BoI",
+        "website": "https://www.bankofindia.co.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9514474,
+          11.0023261
+        ]
+      },
+      "id": "node/1472703572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472703574",
+        "amenity": "atm",
+        "operator": "STATE BANK OF MYSORE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9517371,
+          11.0035583
+        ]
+      },
+      "id": "node/1472703574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472704068",
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "parking": "multi-storey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9522628,
+          11.0023155
+        ]
+      },
+      "id": "node/1472704068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472707364",
+        "amenity": "bank",
+        "brand": "Axis Bank",
+        "brand:wikidata": "Q2003549",
+        "brand:wikipedia": "en:Axis Bank",
+        "name": "Axis Bank",
+        "name:en": "Axis Bank",
+        "website": "https://www.axisbank.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9514903,
+          11.0020944
+        ]
+      },
+      "id": "node/1472707364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472707365",
+        "name": "THE MEN AND WOMEN",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9509753,
+          11.0106459
+        ]
+      },
+      "id": "node/1472707365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472707367",
+        "name": "ABILASHA",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9522413,
+          11.0108671
+        ]
+      },
+      "id": "node/1472707367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472707376",
+        "amenity": "restaurant",
+        "name": "THAT'S Y FOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9533949,
+          11.0105303
+        ]
+      },
+      "id": "node/1472707376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472707377",
+        "amenity": "bank",
+        "brand": "Kotak Mahindra Bank",
+        "brand:wikidata": "Q2040404",
+        "name": "Kotak Mahindra Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9532713,
+          11.0111093
+        ]
+      },
+      "id": "node/1472707377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472707378",
+        "name": "BORN BABES",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.951383,
+          11.0102773
+        ]
+      },
+      "id": "node/1472707378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472707387",
+        "amenity": "restaurant",
+        "name": "COCKARACO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9544601,
+          11.0106881
+        ]
+      },
+      "id": "node/1472707387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473821563",
+        "name": "NALLI SILKS",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9493971,
+          11.0102981
+        ]
+      },
+      "id": "node/1473821563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473821566",
+        "brand": "Pepe Jeans",
+        "brand:wikidata": "Q426992",
+        "brand:wikipedia": "en:Pepe Jeans",
+        "name": "Pepe Jeans",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9492845,
+          11.0100559
+        ]
+      },
+      "id": "node/1473821566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473821567",
+        "name": "COLOR PLUS",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9499229,
+          11.0103982
+        ]
+      },
+      "id": "node/1473821567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473821569",
+        "brand": "United Colors of Benetton",
+        "brand:wikidata": "Q817139",
+        "name": "United Colors of Benetton",
+        "shop": "clothes",
+        "short_name": "Benetton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9495152,
+          11.0103192
+        ]
+      },
+      "id": "node/1473821569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473821575",
+        "amenity": "restaurant",
+        "name": "HOTEL CHERAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9496225,
+          11.010077
+        ]
+      },
+      "id": "node/1473821575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473821576",
+        "name": "MAPLE",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9496171,
+          11.0103613
+        ]
+      },
+      "id": "node/1473821576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473821579",
+        "name": "K-LONGUE",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9494722,
+          11.0100454
+        ]
+      },
+      "id": "node/1473821579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473821582",
+        "name": "STING",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9497888,
+          11.0103771
+        ]
+      },
+      "id": "node/1473821582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473821584",
+        "name": "RAYMOND",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9500248,
+          11.010177
+        ]
+      },
+      "id": "node/1473821584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473821587",
+        "amenity": "fast_food",
+        "name": "AGARWAL SWEET PALACE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9489787,
+          11.0102349
+        ]
+      },
+      "id": "node/1473821587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473821589",
+        "name": "K.R.S BAKERY",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.94885,
+          11.0102086
+        ]
+      },
+      "id": "node/1473821589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473825625",
+        "air_conditioning": "yes",
+        "brand": "Nilgiri's",
+        "brand:wikidata": "Q17079567",
+        "check_date": "2024-10-24",
+        "currency:INR": "yes",
+        "name": "Nilgiri's",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9449769,
+          11.0095504
+        ]
+      },
+      "id": "node/1473825625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473825635",
+        "name": "MASKELIN",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9474767,
+          11.0099822
+        ]
+      },
+      "id": "node/1473825635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473825638",
+        "amenity": "place_of_worship",
+        "check_date": "2024-10-24",
+        "name": "Annapoorni Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9452719,
+          11.0095714
+        ]
+      },
+      "id": "node/1473825638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473825640",
+        "name": "GILLI WORLD",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9486139,
+          11.0102086
+        ]
+      },
+      "id": "node/1473825640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473825641",
+        "check_date": "2024-10-24",
+        "clothes": "women",
+        "name": "Shresht",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9473929,
+          11.0095002
+        ]
+      },
+      "id": "node/1473825641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473825647",
+        "addr:city": "கோயம்புத்தூர்",
+        "addr:postcode": "641002",
+        "addr:street": "Thiruvenkatasamy (TV Samy) Road",
+        "brand": "Fabindia",
+        "brand:wikidata": "Q5427779",
+        "check_date": "2024-10-24",
+        "clothes": "women;men",
+        "name": "Fabindia",
+        "organic": "yes",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "clothes",
+        "website": "https://www.fabindia.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9459629,
+          11.0092786
+        ]
+      },
+      "id": "node/1473825647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473825650",
+        "name": "GAMMA FASHION",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9469939,
+          11.0095978
+        ]
+      },
+      "id": "node/1473825650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473825659",
+        "amenity": "bank",
+        "brand": "Canara Bank",
+        "brand:en": "Canara Bank",
+        "brand:hi": "केनरा बैंक",
+        "brand:kn": "ಕೆನರಾ ಬ್ಯಾಂಕ್",
+        "brand:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+        "brand:pnb": "کینرا بینک",
+        "brand:ur": "کینرا بینک",
+        "brand:wikidata": "Q2003777",
+        "brand:wikipedia": "en:Canara Bank",
+        "brand:wikipedia:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+        "name": "Canara Bank",
+        "name:en": "Canara Bank",
+        "name:hi": "केनरा बैंक",
+        "name:kn": "ಕೆನರಾ ಬ್ಯಾಂಕ್",
+        "name:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+        "name:pnb": "کینرا بینک",
+        "name:ur": "کینرا بینک",
+        "website": "https://www.canarabank.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.948387,
+          11.0101483
+        ]
+      },
+      "id": "node/1473825659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473825661",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "check_date": "2024-10-24",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9441479,
+          11.0094398
+        ]
+      },
+      "id": "node/1473825661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473830522",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Arasu Medicals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.950234,
+          11.010593
+        ]
+      },
+      "id": "node/1473830522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473830523",
+        "addr:district": "Coimbatore",
+        "addr:full": "582-A , D B Road, R, S, Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Coimbatore South",
+        "amenity": "hospital",
+        "health_specialty:optometry": "yes",
+        "healthcare": "hospital",
+        "name": "The Eye Foundaton",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9496753,
+          11.0134549
+        ]
+      },
+      "id": "node/1473830523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473830524",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9500784,
+          11.0111669
+        ]
+      },
+      "id": "node/1473830524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473830525",
+        "brand": "Peter England",
+        "brand:wikidata": "Q19573665",
+        "clothes": "men",
+        "name": "Peter England",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9501643,
+          11.0108563
+        ]
+      },
+      "id": "node/1473830525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473830527",
+        "brand": "Reebok",
+        "brand:wikidata": "Q466183",
+        "brand:wikipedia": "en:Reebok",
+        "name": "Reebok",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9500141,
+          11.0131995
+        ]
+      },
+      "id": "node/1473830527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473830539",
+        "amenity": "restaurant",
+        "name": "RICH FOODS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9499121,
+          11.0149793
+        ]
+      },
+      "id": "node/1473830539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473830541",
+        "name": "NAIDU HALL",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9500194,
+          11.0116514
+        ]
+      },
+      "id": "node/1473830541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473830542",
+        "name": "SCULLERS",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9502125,
+          11.0107141
+        ]
+      },
+      "id": "node/1473830542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473830547",
+        "amenity": "fast_food",
+        "name": "Damro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9501213,
+          11.0129415
+        ]
+      },
+      "id": "node/1473830547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473830549",
+        "amenity": "fast_food",
+        "name": "BOOMERANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9496546,
+          11.0121253
+        ]
+      },
+      "id": "node/1473830549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4229311789",
+        "amenity": "fast_food",
+        "name": "Sandwich",
+        "opening_hours": "Tu-Su 16:00-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9488145,
+          11.0122971
+        ]
+      },
+      "id": "node/4229311789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4273581391",
+        "amenity": "cafe",
+        "name": "Avin Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9606716,
+          11.0064076
+        ]
+      },
+      "id": "node/4273581391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4288600146",
+        "addr:floor": "1",
+        "amenity": "fast_food",
+        "check_date": "2024-10-24",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "drive_through": "no",
+        "level": "1",
+        "name": "Pizza Paradise",
+        "outdoor_seating": "no",
+        "payment:debit_cards": "yes",
+        "phone": "+91 98431 66700; +91 89403 61103",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9444445,
+          11.009435
+        ]
+      },
+      "id": "node/4288600146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4292832670",
+        "amenity": "place_of_worship",
+        "name": "CHURCH",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.961149,
+          11.0056432
+        ]
+      },
+      "id": "node/4292832670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4292856089",
+        "amenity": "theatre",
+        "name": "Shanmuga Theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9558525,
+          11.007819
+        ]
+      },
+      "id": "node/4292856089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4315800697",
+        "addr:block": "Coimbatore Corpn",
+        "addr:district": "Coimbatore",
+        "addr:full": "Cowley Brown Road, R S Puram West",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "addr:street": "Cowley Brown Rd",
+        "addr:subdistrict": "Coimbatore South",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Aravind Eye Hospital (City Centre)",
+        "phone": "91-422-2540400",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9539881,
+          11.0153158
+        ]
+      },
+      "id": "node/4315800697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4356098790",
+        "addr:street": "Arokiasamy Street",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Siruvani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9500524,
+          11.0061313
+        ]
+      },
+      "id": "node/4356098790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373086692",
+        "addr:street": "Cowley Brown Rd",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Sri Kumaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9488568,
+          11.014841
+        ]
+      },
+      "id": "node/4373086692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373090593",
+        "amenity": "atm",
+        "brand": "Corporation Bank",
+        "brand:wikidata": "Q2003387",
+        "brand:wikipedia": "en:Corporation Bank",
+        "name": "Corporation Bank",
+        "name:en": "Corporation Bank",
+        "operator": "Corporation Bank",
+        "operator:wikidata": "Q2003387",
+        "operator:wikipedia": "en:Corporation Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9491827,
+          11.0149091
+        ]
+      },
+      "id": "node/4373090593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4379089190",
+        "addr:street": "Venkitasamy Road",
+        "brand": "Bosch",
+        "brand:wikidata": "Q234021",
+        "name": "Bosch",
+        "name:en": "Bosch",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.954633,
+          11.0139732
+        ]
+      },
+      "id": "node/4379089190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4379089793",
+        "addr:district": "Coimbatore",
+        "addr:full": "No.5(2) Gajalakshmi Theatre Road Near Valarmathi Bus Stop",
+        "addr:postcode": "641601",
+        "addr:state": "Tamil Nadu",
+        "addr:street": "Venkitasamy Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Lotus Eye Care Hospital, Coimbatore",
+        "name:en": "Lotus Eye Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9543624,
+          11.0140006
+        ]
+      },
+      "id": "node/4379089793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4391415889",
+        "addr:street": "Diwan Bhadur Road",
+        "check_date": "2024-10-24",
+        "name:en": "Nalli",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.950625,
+          11.0082677
+        ]
+      },
+      "id": "node/4391415889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4428948995",
+        "name:en": "KRS",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9506435,
+          11.0082021
+        ]
+      },
+      "id": "node/4428948995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4470920289",
+        "addr:block": "Coimbatore Corpn",
+        "addr:district": "Coimbatore",
+        "addr:full": "43, Sanmugam Road, Poo Market Bus Stop, Puthiyavan Nagar, Sukrawar Pettai, R.S. Puram, Rr Layout",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "addr:street": "Shanmugam Road",
+        "addr:street:ta": "சண்முகம் சாலை",
+        "addr:subdistrict": "Coimbatore South",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name:en": "Rex Ortho Hospital",
+        "name:ta": "ரெக்ஸ் எலும்பியல் மருத்துவமனை",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9563626,
+          11.008577
+        ]
+      },
+      "id": "node/4470920289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4472726820",
+        "addr:district": "Coimbatore",
+        "addr:full": "46, Cowley Brown Road, R.S.Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Coimbatore South",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Vijaya Hospitals",
+        "name:en": "Vijaya Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9489909,
+          11.0148532
+        ]
+      },
+      "id": "node/4472726820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4483279189",
+        "amenity": "place_of_worship",
+        "name:en": "Temple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9481534,
+          11.0026647
+        ]
+      },
+      "id": "node/4483279189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4575477590",
+        "amenity": "atm",
+        "brand": "IndusInd Bank",
+        "brand:wikidata": "Q2040323",
+        "operator": "IndusInd Bank",
+        "operator:wikidata": "Q2040323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9535094,
+          11.0138643
+        ]
+      },
+      "id": "node/4575477590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4575507891",
+        "amenity": "restaurant",
+        "name:en": "Jalpajan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9537158,
+          11.0138863
+        ]
+      },
+      "id": "node/4575507891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4575565289",
+        "amenity": "bank",
+        "brand": "IndusInd Bank",
+        "brand:wikidata": "Q2040323",
+        "name": "IndusInd Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9534236,
+          11.0138556
+        ]
+      },
+      "id": "node/4575565289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4711668397",
+        "name:en": "Wake n Bake",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9509903,
+          11.0081712
+        ]
+      },
+      "id": "node/4711668397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4799120032",
+        "addr:city": "Coimbatore",
+        "addr:postcode": "641002",
+        "addr:street": "Sir Shanmugam Road",
+        "alt_name": "A2B",
+        "amenity": "restaurant",
+        "brand": "Adyar Ananda Bhavan",
+        "brand:wikidata": "Q15178238",
+        "brand:wikipedia": "en:Adyar Ananda Bhavan",
+        "cuisine": "regional",
+        "diet:vegetarian": "only",
+        "name": "Adyar Ananda Bhavan",
+        "operator": "Adyar Ananda Bhavan",
+        "phone": "+91 422 427 3399",
+        "shop": "confectionery",
+        "smoking": "no",
+        "website": "https://aabsweets.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9530353,
+          11.008565
+        ]
+      },
+      "id": "node/4799120032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4815778337",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name:en": "Apollo Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9516784,
+          11.0151259
+        ]
+      },
+      "id": "node/4815778337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4815793432",
+        "addr:street": "Diwan Bhadur Road",
+        "amenity": "bar",
+        "name:en": "Cream Stone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9501279,
+          11.0138042
+        ]
+      },
+      "id": "node/4815793432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4878934411",
+        "amenity": "bank",
+        "brand": "CDCC bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9550029,
+          11.0139032
+        ]
+      },
+      "id": "node/4878934411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4878934413",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sri Vaari pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9560947,
+          11.0037607
+        ]
+      },
+      "id": "node/4878934413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4878934414",
+        "amenity": "bank",
+        "brand": "State Bank of India",
+        "brand:wikidata": "Q1340361",
+        "brand:wikipedia": "en:State Bank of India",
+        "name": "State Bank of India",
+        "short_name": "SBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9557815,
+          11.0043615
+        ]
+      },
+      "id": "node/4878934414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4944455821",
+        "name:en": "Anya",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9534287,
+          11.0095801
+        ]
+      },
+      "id": "node/4944455821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5036993525",
+        "addr:housenumber": "201",
+        "addr:postcode": "641002",
+        "addr:street": "Sambandam Road",
+        "amenity": "cafe",
+        "cuisine": "sandwich;breakfast;tea;indian;coffee_shop",
+        "email": "rspuram@chai-n-gupshup.com",
+        "name:en": "Chai n Gupshup Tea Hangout",
+        "opening_hours": "We-Mo 09:00-21:00",
+        "operator": "Hemant J Shah",
+        "phone": "+914224369848"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9528507,
+          11.0087419
+        ]
+      },
+      "id": "node/5036993525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210442034",
+        "amenity": "cafe",
+        "name": "Rajasthan Inji Tea Kadai",
+        "name:ta": "ராஜஸ்தான் இஞ்சி தேநீர் அங்காடி"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9460055,
+          11.005848
+        ]
+      },
+      "id": "node/5210442034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210459101",
+        "amenity": "restaurant",
+        "name": "Hotel Usthad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9457973,
+          11.0058755
+        ]
+      },
+      "id": "node/5210459101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5274739821",
+        "addr:housenumber": "1",
+        "addr:postcode": "641002",
+        "addr:street": "vcv road",
+        "name:en": "Krishna Bakery opp kovai briyani",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9576465,
+          11.00933
+        ]
+      },
+      "id": "node/5274739821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5274739921",
+        "addr:housenumber": "179B,",
+        "addr:postcode": "641002",
+        "addr:street": "vcv layout",
+        "name:en": "Safik Petti Shop",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9579603,
+          11.0095508
+        ]
+      },
+      "id": "node/5274739921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5281168121",
+        "name:en": "sagar bakery",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.956196,
+          11.0026468
+        ]
+      },
+      "id": "node/5281168121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5311816156",
+        "amenity": "cafe",
+        "name": "Aasai Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9446894,
+          11.00785
+        ]
+      },
+      "id": "node/5311816156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5311820591",
+        "amenity": "cafe",
+        "name": "Aavin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9450908,
+          11.0078487
+        ]
+      },
+      "id": "node/5311820591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5311829306",
+        "amenity": "cafe",
+        "name": "Aaradhana Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.944915,
+          11.0076843
+        ]
+      },
+      "id": "node/5311829306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5312920882",
+        "amenity": "place_of_worship",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9448483,
+          11.0079231
+        ]
+      },
+      "id": "node/5312920882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5724054575",
+        "addr:housenumber": "67 - 71",
+        "addr:street": "Krishnaswamy Road",
+        "description": "one of the shopping malls in Coimbatore.",
+        "name": "Brookefields Mall",
+        "opening_hours": "Mo-Fr 11:00-22:00; Sa, Su 10:00-22:00",
+        "phone": "+91 928 1000 550",
+        "shop": "mall",
+        "website": "https://www.brookefields.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9593964,
+          11.0088739
+        ]
+      },
+      "id": "node/5724054575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110273268",
+        "brand": "Lifestyle",
+        "brand:wikidata": "Q6545496",
+        "level": "1",
+        "name": "Lifestyle",
+        "shop": "clothes",
+        "website": "https://lifestylestores.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95994,
+          11.00821
+        ]
+      },
+      "id": "node/6110273268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110273271",
+        "brand": "Puma",
+        "brand:wikidata": "Q157064",
+        "name": "Puma",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9598585,
+          11.0085823
+        ]
+      },
+      "id": "node/6110273271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110273275",
+        "name": "RMKV Silks",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9591776,
+          11.0091483
+        ]
+      },
+      "id": "node/6110273275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110273276",
+        "brand": "Nike",
+        "brand:wikidata": "Q483915",
+        "brand:wikipedia": "en:Nike, Inc.",
+        "name": "Nike",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95928,
+          11.0090087
+        ]
+      },
+      "id": "node/6110273276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110273278",
+        "brand": "Calvin Klein",
+        "brand:wikidata": "Q1068628",
+        "brand:wikipedia": "en:Calvin Klein (fashion house)",
+        "name": "Calvin Klein",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9596878,
+          11.0090496
+        ]
+      },
+      "id": "node/6110273278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110273280",
+        "name": "Reliance Trends",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9594886,
+          11.0092284
+        ]
+      },
+      "id": "node/6110273280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110273281",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9588552,
+          11.0095895
+        ]
+      },
+      "id": "node/6110273281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110273282",
+        "branch": "Exclusive Store",
+        "brand": "Levi's",
+        "brand:wikidata": "Q127962",
+        "brand:wikipedia": "en:Levi Strauss & Co.",
+        "clothes": "denim;men;women",
+        "name": "Levi's",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9592042,
+          11.0095504
+        ]
+      },
+      "id": "node/6110273282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110273283",
+        "brand": "Allen Solly",
+        "brand:wikidata": "Q110036995",
+        "name": "Allen Solly",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9591093,
+          11.0099526
+        ]
+      },
+      "id": "node/6110273283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6174509471",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "brand:wikipedia": "en:Hindustan Petroleum",
+        "name": "HP petrol bunk",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9458676,
+          11.0051914
+        ]
+      },
+      "id": "node/6174509471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6174509724",
+        "amenity": "atm",
+        "brand": "State Bank of India",
+        "brand:en": "State Bank of India",
+        "brand:wikidata": "Q1340361",
+        "brand:wikipedia": "en:State Bank of India",
+        "currency:INR": "yes",
+        "drive_through": "no",
+        "indoor": "yes",
+        "name": "State Bank of India",
+        "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+        "opening_hours": "24/7",
+        "operator": "State Bank of India",
+        "operator:en": "State Bank of India",
+        "operator:wikidata": "Q1340361",
+        "operator:wikipedia": "en:State Bank of India",
+        "short_name": "SBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9457861,
+          11.0053283
+        ]
+      },
+      "id": "node/6174509724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6174511986",
+        "amenity": "atm",
+        "brand": "Oriental Bank of Commerce",
+        "brand:wikidata": "Q367008",
+        "brand:wikipedia": "en:Oriental Bank of Commerce",
+        "name": "Oriental Bank of Commerce",
+        "operator": "Oriental Bank of Commerce",
+        "operator:wikidata": "Q367008",
+        "operator:wikipedia": "en:Oriental Bank of Commerce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9524427,
+          11.006907
+        ]
+      },
+      "id": "node/6174511986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6403573764",
+        "level": "3",
+        "name": "grasp",
+        "shop": "clothes",
+        "toilets": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9594985,
+          11.0088313
+        ]
+      },
+      "id": "node/6403573764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6403575020",
+        "level": "3",
+        "name": "Classic Polo",
+        "second_hand": "no",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9596114,
+          11.0089484
+        ]
+      },
+      "id": "node/6403575020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6403593226",
+        "brand": "Apple Store",
+        "brand:wikidata": "Q421253",
+        "brand:wikipedia": "en:Apple Store",
+        "level": "0",
+        "name": "Apple Store",
+        "operator": "iplanet",
+        "shop": "electronics",
+        "short_name": "Apple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9596835,
+          11.008764
+        ]
+      },
+      "id": "node/6403593226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6437532107",
+        "access": "private",
+        "amenity": "parking_space",
+        "covered": "no",
+        "fee": "yes",
+        "lit": "yes",
+        "operator": "Central theater",
+        "parking": "surface",
+        "supervised": "yes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9554359,
+          11.0160099
+        ]
+      },
+      "id": "node/6437532107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6886497224",
+        "addr:district": "COIMBATORE",
+        "addr:full": "No.190A, Bashyakarlu Road East, R.S. Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "blood_bank",
+        "contact:mobile": "097913 60516",
+        "contact:phone": "4222552297",
+        "email": "poornashloka@yahoo.com",
+        "name": "The Coimbatore Bio Medical Services Blood Bank",
+        "opening_hours": "24/7",
+        "operator:type": "ngo",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9532673,
+          11.0148584
+        ]
+      },
+      "id": "node/6886497224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6886497229",
+        "addr:district": "COIMBATORE",
+        "addr:full": "Red Rase Tower No.422 DB Road, R.S. Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "blood_bank",
+        "contact:phone": "04222477373; 04222470046",
+        "email": "cbe_lionsbloodbank@yahoo.co.in",
+        "name": "Lions Club of Coimbatore Legend Blood Bank Research Centre",
+        "opening_hours": "24/7",
+        "operator:type": "ngo",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9509217,
+          11.0058505
+        ]
+      },
+      "id": "node/6886497229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6886497234",
+        "addr:city": "Coimbatore",
+        "addr:district": "COIMBATORE",
+        "addr:full": "92, Syrian Church Road, RS Puram, Coimbatore",
+        "addr:postcode": "641001",
+        "addr:state": "Tamil Nadu",
+        "amenity": "blood_bank",
+        "contact:mobile": "097879 69099",
+        "contact:phone": "04226513322; 04226563322; 04222471824",
+        "email": "imabloodbankcbe@gmail.com",
+        "name": "IMA Rotary Midtown Mahaveer Blood Bank",
+        "opening_hours": "24/7",
+        "operator:type": "private",
+        "source": "OpenGovernmentData",
+        "website": "https://www.ima-india.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9605938,
+          11.0061691
+        ]
+      },
+      "id": "node/6886497234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6914895660",
+        "addr:district": "Coimbatore",
+        "addr:full": "69, West Venkatasamy Road, R S Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Coimbatore South",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Vikaram ENT Hospital, Coimbatore",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9494063,
+          11.0120021
+        ]
+      },
+      "id": "node/6914895660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6915000695",
+        "addr:district": "Coimbatore",
+        "addr:full": "123, Sashtri Road, Ram Nagar",
+        "addr:postcode": "641009",
+        "addr:state": "Tamil Nadu",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Sri Meru Nursing Home, Coimbatore",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9606769,
+          11.0116059
+        ]
+      },
+      "id": "node/6915000695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6915464620",
+        "addr:district": "Coimbatore",
+        "addr:full": "19,Cowley Brown Road, R.S Puram,Cbe-02",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Veeku Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9517022,
+          11.0150799
+        ]
+      },
+      "id": "node/6915464620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6928304820",
+        "addr:district": "Coimbatore",
+        "addr:full": "New No.52 ,Old No.133 , East Bashyakaralu Road,R.S. Puram,End Of Maruthi Theatre Road",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Vedanayagam Hospital (P) Limited",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9504979,
+          11.0144375
+        ]
+      },
+      "id": "node/6928304820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6929967231",
+        "addr:district": "Coimbatore",
+        "addr:full": "15, Vivekanand Road, Ramnagar",
+        "addr:postcode": "641009",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kovai Diabetes Speciality Centre and Hospital",
+        "name:en": "Kovai Diabetes Speciality Centre and Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9613153,
+          11.0159329
+        ]
+      },
+      "id": "node/6929967231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6934018833",
+        "addr:district": "Coimbatore",
+        "addr:full": "81/83, T V Sami Road West, Opp To Kamatchiamman Temple, R S Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Vasan Eye Care Hospital, Coimbatore",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9454058,
+          11.0091245
+        ]
+      },
+      "id": "node/6934018833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6934424352",
+        "addr:district": "Coimbatore",
+        "addr:full": "356, D.B.Road, R.S.Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Shree Saravana Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9513442,
+          11.002695
+        ]
+      },
+      "id": "node/6934424352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936359967",
+        "addr:district": "Coimbatore",
+        "addr:full": "Cowley Brown Road, R.S.Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Coimbatore South",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kumaran Hospital, Coimbatore",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95132,
+          11.0150812
+        ]
+      },
+      "id": "node/6936359967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936361589",
+        "addr:district": "Coimbatore",
+        "addr:full": "Karunya Nagar",
+        "addr:postcode": "641110",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Seesha Karunya Community Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9593814,
+          11.0160619
+        ]
+      },
+      "id": "node/6936361589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936443894",
+        "addr:district": "Coimbatore",
+        "addr:full": "Srivari Kikani Centre,R.S.Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sankara Eye Hospital, Coimbatore",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9553728,
+          11.0133673
+        ]
+      },
+      "id": "node/6936443894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936609173",
+        "addr:district": "Coimbatore",
+        "addr:full": "137 East Periasamy Road, R.S. Puram",
+        "addr:postcode": "641018",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Madurai Eye Center",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.951316,
+          11.0137122
+        ]
+      },
+      "id": "node/6936609173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936663154",
+        "addr:district": "Coimbatore",
+        "addr:full": "#30, Guru Govind Singh Road Off.,Cowley Brown Road,R. S. Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Vega Ent Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9437897,
+          11.0142295
+        ]
+      },
+      "id": "node/6936663154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936677079",
+        "addr:district": "Coimbatore",
+        "addr:full": "50,Vivekanandha Road,Rama Nagar, Opposite Meena Eye Hospital",
+        "addr:postcode": "641009",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Spt Hospitals",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9614293,
+          11.0143493
+        ]
+      },
+      "id": "node/6936677079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936695107",
+        "addr:district": "Coimbatore",
+        "addr:full": "5/25, Mattupalyam Road, Kavundampalyam",
+        "addr:postcode": "641030",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr K Padmavathy Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9578948,
+          11.0081878
+        ]
+      },
+      "id": "node/6936695107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936794080",
+        "addr:district": "Coimbatore",
+        "addr:full": "361, D B Road R S Puram R S Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Maruthi Hospital, Coimbatore",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9513019,
+          11.0031531
+        ]
+      },
+      "id": "node/6936794080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6937477838",
+        "addr:district": "Coimbatore",
+        "addr:full": "64,Arokiasamy Road(West),R.S.Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Coimbatore South",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "K.M. Polyclinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9475555,
+          11.0061296
+        ]
+      },
+      "id": "node/6937477838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6937527640",
+        "addr:district": "Coimbatore",
+        "addr:full": "7,Ramachandra Road,R.S.Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sruti Hospitals",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9525994,
+          11.0060677
+        ]
+      },
+      "id": "node/6937527640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7111734385",
+        "amenity": "restaurant",
+        "name:en": "Annavilaas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9499427,
+          11.0100388
+        ]
+      },
+      "id": "node/7111734385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257183906",
+        "addr:district": "Coimbatore",
+        "addr:full": "R.S.Puram, Coimbatore, Tv Samy Road East",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Coimbatore North",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ponnaiah Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9530054,
+          11.0108047
+        ]
+      },
+      "id": "node/7257183906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257183914",
+        "addr:block": "Coimbatore Corpn",
+        "addr:district": "Coimbatore",
+        "addr:full": "Rs Puram, Near Maruthi Lodge, Coimbatore, Venkatakrishna Road",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Coimbatore South",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Shanmuga Hospital Rs Puram",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.948869,
+          11.0029
+        ]
+      },
+      "id": "node/7257183914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257183957",
+        "addr:district": "Coimbatore",
+        "addr:full": "43, E Periasamy Rd, Near Eye Foundation, R S Puram West, Coimbatore",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Coimbatore South",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Gateway Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9492706,
+          11.0128764
+        ]
+      },
+      "id": "node/7257183957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257183966",
+        "addr:block": "Coimbatore Corpn",
+        "addr:district": "Coimbatore",
+        "addr:full": "Thadagam Main Rd, Gandhi Park, R S Puram West, Coimbatore",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Coimbatore South",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr.Manoharan Hospital, Thadagam, Coimbatore",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9452484,
+          11.0067511
+        ]
+      },
+      "id": "node/7257183966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257183994",
+        "addr:block": "Coimbatore Corpn",
+        "addr:district": "Coimbatore",
+        "addr:full": "R.S Puram, Coimbatore, Ramachandra Road",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Coimbatore South",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Muniyappa Hospital, Coimbatore",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9527967,
+          11.0060689
+        ]
+      },
+      "id": "node/7257183994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257183995",
+        "addr:block": "Coimbatore Corpn",
+        "addr:district": "Coimbatore",
+        "addr:full": "Rs Puram, Coimbatore, Sambandam Road",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Coimbatore South",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rajalakshmi Hospital, Coimbatore",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9503459,
+          11.0044176
+        ]
+      },
+      "id": "node/7257183995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844131964",
+        "addr:district": "Coimbatore",
+        "addr:full": "Sukrawar Pettai, R S Puram",
+        "addr:postcode": "641011",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Vishnu Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9576345,
+          11.0076298
+        ]
+      },
+      "id": "node/7844131964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844131966",
+        "addr:district": "Coimbatore",
+        "addr:full": "RS Puram, Coimbatore",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Dr. J K's Homeopathy Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9530101,
+          11.0046785
+        ]
+      },
+      "id": "node/7844131966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844131968",
+        "addr:district": "Coimbatore",
+        "addr:full": "R S Puram, Coimbatore",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rex Ortho Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.956396,
+          11.008405
+        ]
+      },
+      "id": "node/7844131968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844131972",
+        "addr:district": "Coimbatore",
+        "addr:full": "Sukrawarpet, Coimbatore",
+        "addr:postcode": "641001",
+        "addr:state": "Tamil Nadu",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "S.T Dental Care",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9559434,
+          11.0027123
+        ]
+      },
+      "id": "node/7844131972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844131974",
+        "addr:district": "Coimbatore",
+        "addr:full": "R S Puram, Coimbatore",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "N R Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9548289,
+          11.0112326
+        ]
+      },
+      "id": "node/7844131974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844131975",
+        "addr:district": "Coimbatore",
+        "addr:full": "R S Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Parvathy Hospitals",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.952299,
+          11.01472
+        ]
+      },
+      "id": "node/7844131975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844131976",
+        "addr:district": "Coimbatore",
+        "addr:full": "R S Puram, Coimbatore",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Dr. Sambadam",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9512555,
+          11.0041271
+        ]
+      },
+      "id": "node/7844131976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844131977",
+        "addr:district": "Coimbatore",
+        "addr:full": "R S Puram, Coimbatore",
+        "addr:postcode": "641001",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Srigiri Ayurvedic Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9578763,
+          11.0081541
+        ]
+      },
+      "id": "node/7844131977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844131983",
+        "addr:district": "Coimbatore",
+        "addr:full": "P.N. Pudur, Coimbatore",
+        "addr:postcode": "641041",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr. K Shitra Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9555303,
+          11.0052314
+        ]
+      },
+      "id": "node/7844131983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844131987",
+        "addr:district": "Coimbatore",
+        "addr:full": "Sukrawar Pettai, R S Puram, Coimbatore",
+        "addr:postcode": "641001",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Seethalakshmi Maternity Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9600631,
+          11.0065379
+        ]
+      },
+      "id": "node/7844131987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844131989",
+        "addr:district": "Coimbatore",
+        "addr:full": "Vincent Colony, R S Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Arun Urology Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9449938,
+          11.0143168
+        ]
+      },
+      "id": "node/7844131989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844131992",
+        "addr:district": "Coimbatore",
+        "addr:full": "RS Puram, Coimbatore",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "R.S Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.954667,
+          11.0091279
+        ]
+      },
+      "id": "node/7844131992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844131999",
+        "addr:district": "Coimbatore",
+        "addr:full": "R S Puram, Coimbatore",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rao Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.948405,
+          11.0131526
+        ]
+      },
+      "id": "node/7844131999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844132000",
+        "addr:district": "Coimbatore",
+        "addr:full": "Chithra",
+        "addr:postcode": "641014",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kamala Prakash Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.956267,
+          11.007283
+        ]
+      },
+      "id": "node/7844132000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844132010",
+        "addr:district": "Coimbatore",
+        "addr:full": "R S Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "PGS Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9524368,
+          11.0153485
+        ]
+      },
+      "id": "node/7844132010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844132012",
+        "addr:district": "Coimbatore",
+        "addr:full": "Kollupuram, R S Puram",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Shree Malar Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9551255,
+          11.0027982
+        ]
+      },
+      "id": "node/7844132012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844132013",
+        "addr:district": "Coimbatore",
+        "addr:full": "P.N. Pudur, Coimbatore",
+        "addr:postcode": "641041",
+        "addr:state": "Tamil Nadu",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Sri Swathi Dental Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9555005,
+          11.0054958
+        ]
+      },
+      "id": "node/7844132013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844132016",
+        "addr:district": "Coimbatore",
+        "addr:full": "Hosimin Nagar",
+        "addr:postcode": "641043",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Mak Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9580134,
+          11.008435
+        ]
+      },
+      "id": "node/7844132016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844132017",
+        "addr:district": "Coimbatore",
+        "addr:full": "Kollupuram, R S Puram, Coimbatore",
+        "addr:postcode": "641002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Arun Dental Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.955796,
+          11.0039912
+        ]
+      },
+      "id": "node/7844132017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8228225817",
+        "amenity": "motorcycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9552676,
+          11.014839
+        ]
+      },
+      "id": "node/8228225817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12285349813",
+        "amenity": "atm",
+        "brand": "DBS Bank India",
+        "brand:wikidata": "Q76514597",
+        "check_date": "2024-10-24",
+        "operator": "DBS Bank India",
+        "operator:wikidata": "Q76514597"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9457009,
+          11.0095833
+        ]
+      },
+      "id": "node/12285349813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12285349815",
+        "amenity": "atm",
+        "brand": "City Union Bank",
+        "brand:en": "City Union Bank",
+        "brand:hi": "सिटी यूनियन बैंक",
+        "brand:ta": "சிட்டி யூனியன் வங்கி",
+        "brand:wikidata": "Q2040264",
+        "check_date": "2024-10-24",
+        "name:en": "City Union Bank",
+        "name:hi": "सिटी यूनियन बैंक",
+        "name:ta": "சிட்டி யூனியன் வங்கி",
+        "operator": "City Union Bank",
+        "operator:wikidata": "Q2040264",
+        "short_name": "CUB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9504819,
+          11.009274
+        ]
+      },
+      "id": "node/12285349815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12285349816",
+        "amenity": "bank",
+        "brand": "City Union Bank",
+        "brand:en": "City Union Bank",
+        "brand:hi": "सिटी यूनियन बैंक",
+        "brand:ta": "சிட்டி யூனியன் வங்கி",
+        "brand:wikidata": "Q2040264",
+        "check_date": "2024-10-24",
+        "name": "City Union Bank",
+        "name:en": "City Union Bank",
+        "name:hi": "सिटी यूनियन बैंक",
+        "name:ta": "சிட்டி யூனியன் வங்கி",
+        "short_name": "CUB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9504754,
+          11.0093053
+        ]
+      },
+      "id": "node/12285349816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12285349817",
+        "amenity": "pharmacy",
+        "check_date": "2024-10-24",
+        "healthcare": "pharmacy",
+        "name": "Arasu Medicals",
+        "name:ta": "அரசு மெடிக்கல்ஸ்"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9502958,
+          11.0102846
+        ]
+      },
+      "id": "node/12285349817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12285349819",
+        "amenity": "atm",
+        "brand": "State Bank of India",
+        "brand:en": "State Bank of India",
+        "brand:wikidata": "Q1340361",
+        "check_date": "2024-10-24",
+        "currency:INR": "yes",
+        "drive_through": "no",
+        "indoor": "yes",
+        "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+        "opening_hours": "24/7",
+        "operator": "State Bank of India",
+        "operator:en": "State Bank of India",
+        "operator:wikidata": "Q1340361",
+        "short_name": "SBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9505929,
+          11.0085035
+        ]
+      },
+      "id": "node/12285349819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12285349829",
+        "brand": "U.S. Polo Assn.",
+        "brand:wikidata": "Q7863282",
+        "check_date": "2024-10-24",
+        "name": "U.S. Polo Assn.",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9503695,
+          11.009973
+        ]
+      },
+      "id": "node/12285349829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12285349832",
+        "amenity": "college",
+        "check_date": "2024-10-24",
+        "name": "Vannamalar Institute Of Forest Genetics & Tree Breeding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9444043,
+          11.010034
+        ]
+      },
+      "id": "node/12285349832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13001540233",
+        "addr:housenumber": "125",
+        "addr:street": "West Ramalingam road",
+        "level": "1",
+        "name": "C-STERC",
+        "office": "educational_institution",
+        "phone": "+918754778345",
+        "website": "https://csterc.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9493476,
+          11.0039357
+        ]
+      },
+      "id": "node/13001540233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13001806544",
+        "amenity": "bank",
+        "name": "Cosmos co-op bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.950939,
+          11.0043532
+        ]
+      },
+      "id": "node/13001806544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13001830875",
+        "addr:housenumber": "121",
+        "addr:street": "west ramalingam road",
+        "amenity": "dentist",
+        "contact:mobile": "+919843759559",
+        "name": "GS Dental care",
+        "phone": "+914222476036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9495558,
+          11.0040277
+        ]
+      },
+      "id": "node/13001830875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13001831751",
+        "amenity": "atm",
+        "name": "Cosmos co-op bank ATM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9509909,
+          11.0043446
+        ]
+      },
+      "id": "node/13001831751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13001849060",
+        "amenity": "police",
+        "contact:mobile": "+919498101161",
+        "name": "B-2 R.S.Puram police station",
+        "phone": "+914222476869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9500311,
+          11.0053262
+        ]
+      },
+      "id": "node/13001849060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13001909486",
+        "amenity": "bank",
+        "name": "Punjab national bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9503695,
+          11.0063662
+        ]
+      },
+      "id": "node/13001909486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13001915008",
+        "amenity": "atm",
+        "name": "Punjab national bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9504356,
+          11.0063669
+        ]
+      },
+      "id": "node/13001915008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13002129691",
+        "amenity": "bank",
+        "name": "IDBI bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.951372,
+          11.0052021
+        ]
+      },
+      "id": "node/13002129691"
+    }
+  ]
+}

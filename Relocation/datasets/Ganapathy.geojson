@@ -1,0 +1,601 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-26T16:50:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89703483",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Ruchi Restarunt"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.97855,
+              11.0368558
+            ],
+            [
+              76.9785444,
+              11.0367998
+            ],
+            [
+              76.9786177,
+              11.0367927
+            ],
+            [
+              76.9786234,
+              11.0368487
+            ],
+            [
+              76.97855,
+              11.0368558
+            ]
+          ]
+        ]
+      },
+      "id": "way/89703483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/91560462",
+        "amenity": "parking",
+        "parking": "surface"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9780265,
+              11.0356588
+            ],
+            [
+              76.9780517,
+              11.0354393
+            ],
+            [
+              76.9781085,
+              11.0354542
+            ],
+            [
+              76.9780545,
+              11.0356666
+            ],
+            [
+              76.9780265,
+              11.0356588
+            ]
+          ]
+        ]
+      },
+      "id": "way/91560462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1236978250",
+        "addr:housename": "KR Bakery",
+        "building": "yes",
+        "name": "KR Bakery",
+        "shop": "bakery",
+        "source": "microsoft/BuildingFootprints"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9788122,
+              11.0373927
+            ],
+            [
+              76.9789059,
+              11.037397
+            ],
+            [
+              76.9788905,
+              11.037719
+            ],
+            [
+              76.9787968,
+              11.0377147
+            ],
+            [
+              76.9788122,
+              11.0373927
+            ]
+          ]
+        ]
+      },
+      "id": "way/1236978250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1251629386",
+        "addr:street": "Gopalasamy Koil Street",
+        "amenity": "place_of_worship",
+        "amenity:ta": "வழிபாட்டு இடம்",
+        "building": "yes",
+        "name": "Gopalsamy Temple",
+        "name:ta": "கோபால்சாமி கோயில்",
+        "religion": "hindu",
+        "source": "microsoft/BuildingFootprints"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.976295,
+              11.0361481
+            ],
+            [
+              76.9762117,
+              11.0361395
+            ],
+            [
+              76.9762065,
+              11.0361877
+            ],
+            [
+              76.9760898,
+              11.0361756
+            ],
+            [
+              76.976098,
+              11.0360988
+            ],
+            [
+              76.9759601,
+              11.0360846
+            ],
+            [
+              76.9759744,
+              11.0359505
+            ],
+            [
+              76.9763682,
+              11.0359911
+            ],
+            [
+              76.9763625,
+              11.0360444
+            ],
+            [
+              76.9763067,
+              11.0360387
+            ],
+            [
+              76.976295,
+              11.0361481
+            ]
+          ]
+        ]
+      },
+      "id": "way/1251629386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/321420762",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil",
+        "operator": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9805839,
+          11.039519
+        ]
+      },
+      "id": "node/321420762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039492945",
+        "amenity": "atm",
+        "brand": "Syndicate Bank",
+        "brand:wikidata": "Q2004088",
+        "operator": "Syndicate Bank",
+        "operator:wikidata": "Q2004088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9797411,
+          11.0390444
+        ]
+      },
+      "id": "node/1039492945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039492959",
+        "amenity": "atm",
+        "brand": "ICICI Bank",
+        "brand:en": "ICICI Bank",
+        "brand:wikidata": "Q1653258",
+        "currency:INR": "yes",
+        "drive_through": "no",
+        "indoor": "yes",
+        "note": "Contributors are requested to not edit the \"brand\", \"brand:en\", \"brand:wikidata\", \"operator\", \"operator:en\" and \"operator:wikidata\" tags. (2025/03/03)",
+        "opening_hours": "24/7",
+        "operator": "ICICI Bank",
+        "operator:en": "ICICI Bank",
+        "operator:wikidata": "Q1653258",
+        "short_name": "ICICI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9796977,
+          11.0390299
+        ]
+      },
+      "id": "node/1039492959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039492978",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Velu Restaruents"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9797003,
+          11.0390001
+        ]
+      },
+      "id": "node/1039492978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039493005",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "internet_access": "no",
+        "name": "Thai Unavagam",
+        "name:ta": "தாய் உணவகம்",
+        "opening_hours": "Tu-Su 08:00-15:00;Sa 08:00-12:00",
+        "smoking": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9804676,
+          11.039397
+        ]
+      },
+      "id": "node/1039493005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039493026",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "KR Restarunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9788671,
+          11.0375822
+        ]
+      },
+      "id": "node/1039493026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039493031",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Ganapathi Koil (Small)",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9795216,
+          11.0389158
+        ]
+      },
+      "id": "node/1039493031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039493036",
+        "addr:block": "Coimbatore Corpn",
+        "addr:district": "Coimbatore",
+        "addr:full": "Anna Nagar,Ganapathy, Coimbatore, Sathy Main Road",
+        "addr:postcode": "641006",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Coimbatore South",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Surya Hospital, Coimbatore",
+        "name:ta": "சூர்யா மருத்துவமனை",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.979517,
+          11.0390101
+        ]
+      },
+      "id": "node/1039493036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039511715",
+        "amenity": "place_of_worship",
+        "name": "Koil",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9781063,
+          11.0357027
+        ]
+      },
+      "id": "node/1039511715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039511740",
+        "amenity": "atm",
+        "operator": "IndiasInd Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9791144,
+          11.032805
+        ]
+      },
+      "id": "node/1039511740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039511760",
+        "amenity": "restaurant",
+        "name": "KR Restarunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9784073,
+          11.0360464
+        ]
+      },
+      "id": "node/1039511760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039511773",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9782912,
+          11.0355192
+        ]
+      },
+      "id": "node/1039511773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039593704",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Restaurent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9791006,
+          11.0375434
+        ]
+      },
+      "id": "node/1039593704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039722104",
+        "name": "Textiles",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9782213,
+          11.0361911
+        ]
+      },
+      "id": "node/1039722104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1063682658",
+        "amenity": "cafe",
+        "name": "Lakshi Iyengar Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9782191,
+          11.0362691
+        ]
+      },
+      "id": "node/1063682658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1680201898",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "brand:wikipedia": "en:Bharat Petroleum",
+        "check_date": "2024-12-17",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9762591,
+          11.0314324
+        ]
+      },
+      "id": "node/1680201898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1913565274",
+        "amenity": "pharmacy",
+        "check_date": "2024-12-17",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.975725,
+          11.030742
+        ]
+      },
+      "id": "node/1913565274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1913566088",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Tulsi Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.978383,
+          11.034999
+        ]
+      },
+      "id": "node/1913566088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3571495701",
+        "check_date": "2024-12-17",
+        "name": "Kannan Departmental Stores",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9754173,
+          11.0305225
+        ]
+      },
+      "id": "node/3571495701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4341285025",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "BM Dental Clinic",
+        "operator": "Dr. M Sathya Vani BDS",
+        "phone": "9940977577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.978312,
+          11.0342408
+        ]
+      },
+      "id": "node/4341285025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6933115102",
+        "addr:district": "Coimbatore",
+        "addr:full": "Ganapathy, Coimbatore, Raju Naidu Street No.2",
+        "addr:postcode": "641006",
+        "addr:state": "Tamil Nadu",
+        "alt_name": "Paari Hospital",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Paari Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9761197,
+          11.0321465
+        ]
+      },
+      "id": "node/6933115102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12078016820",
+        "addr:city": "Coimbatore",
+        "addr:district": "Coimbatore",
+        "addr:housenumber": "1/2",
+        "addr:postcode": "641006",
+        "addr:street": "Sri balaji Layout, Sanganoor",
+        "leisure": "park",
+        "name": "VISHNU KRUPA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9647803,
+          11.0421645
+        ]
+      },
+      "id": "node/12078016820"
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+/* Scroll-driven image swapper - Why NammaWay section (ref: freefrontend.com) */
+
+.why-nammaway {
+  --left-pad: calc(48px + 2rem);
+  --container-width: calc(100vw - 1rem - var(--left-pad));
+  --column-one: calc(var(--container-width) * (1.2 / 3.2));
+  --column-two: calc(var(--container-width) * (2 / 3.2));
+  --col-one-height: min(70vh, calc((380 / 272) * var(--column-one)));
+  --col-two-height: min(110vh, calc((1148 / 940) * var(--column-two)));
+  --catch-up: calc(var(--col-two-height) - var(--col-one-height));
+}
+
+.why-nammaway .image-box {
+  display: grid;
+  gap: 1rem;
+  padding: 1rem 1rem 1rem var(--left-pad);
+  min-height: 100vh;
+  grid-template-columns: 1.2fr 2fr;
+  position: relative;
+}
+
+/* Responsive Grid - ensures proper layout on all screen sizes */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .why-nammaway .image-box {
+    grid-template-columns: 1fr 1.5fr;
+    padding: 1rem;
+  }
+}
+
+.why-nammaway .image-box.swapper-right {
+  grid-template-columns: 2fr 1.2fr;
+}
+
+.why-nammaway .swapper {
+  height: var(--col-one-height);
+  width: 100%;
+  position: relative;
+  transform: translate3d(0, 0, 0);
+  border-radius: 12px;
+  isolation: isolate;
+  overflow: hidden;
+}
+
+.why-nammaway .swapper img:first-of-type {
+  opacity: 0;
+}
+
+.why-nammaway .progress {
+  position: absolute;
+  height: min(100px, 15%);
+  width: 6px;
+  top: 50%;
+  translate: 0 -50%;
+  display: flex;
+  flex-direction: column;
+  gap: 5%;
+  z-index: 10;
+}
+
+.why-nammaway .progress > div {
+  border-radius: 100px;
+  background: hsl(0 0% 100% / 0.25);
+  transition: flex 0.25s ease-in-out;
+}
+
+.why-nammaway .progress > div {
+  flex: 10;
+  position: relative;
+}
+
+.why-nammaway .progress div > div {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  border-radius: 100px;
+  height: 0%;
+  background: white;
+}
+
+.why-nammaway .progress > div:last-of-type {
+  flex: calc(1 + (var(--flip, 0) * 99));
+}
+
+.why-nammaway .swapper:first-of-type .progress {
+  right: 10px;
+}
+
+.why-nammaway .swapper:last-of-type .progress {
+  left: 10px;
+}
+
+.why-nammaway .caption {
+  position: absolute;
+  bottom: 100%;
+  padding: 1rem;
+  font-size: 14px;
+  width: 38ch;
+  max-width: 90%;
+  text-align: right;
+  right: 10px;
+  display: grid;
+  gap: 0.25rem;
+  z-index: 5;
+}
+
+.why-nammaway .caption h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: hsl(220 30% 10%);
+}
+
+.why-nammaway .caption p {
+  font-size: 0.95rem;
+  color: hsl(220 10% 45%);
+}
+
+.why-nammaway .swapper img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 12px;
+  mix-blend-mode: plus-lighter;
+  will-change: opacity;
+  transition: opacity 0.1s ease-out;
+}
+
+.why-nammaway .controller {
+  height: var(--col-two-height);
+  width: 100%;
+  border-radius: 12px;
+  overflow: hidden;
+  background: hsl(220 25% 14%);
+}
+
+.why-nammaway .controller img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 12px;
+  mix-blend-mode: plus-lighter;
+  will-change: transform;
+}
+
+.why-nammaway .swapper,
+.why-nammaway .controller {
+  background: hsl(220 25% 14%);
+}
+
+/* Native scroll-driven animations */
+@supports (animation-timeline: scroll()) {
+  @property --flip {
+    inherits: true;
+    initial-value: 0;
+    syntax: "<number>";
+  }
+
+  @keyframes swapper-fade {
+    to {
+      opacity: 0;
+    }
+  }
+
+  @keyframes swapper-fill-up {
+    to {
+      height: 100%;
+    }
+  }
+
+  @keyframes swapper-move {
+    to {
+      translate: 0 var(--catch-up);
+    }
+  }
+
+  @keyframes swapper-flip {
+    to {
+      --flip: 1;
+    }
+  }
+
+  .why-nammaway .image-box {
+    view-timeline: --container;
+  }
+
+  .why-nammaway .swapper {
+    animation: swapper-move both linear, swapper-flip both steps(1);
+    animation-timeline: --container, view();
+    animation-range: 50vh calc(100vh + (var(--col-two-height) * 0.25)), cover 50% cover 50%;
+  }
+
+  .why-nammaway .swapper img {
+    animation: swapper-fade both linear;
+    animation-timeline: view();
+    animation-range: cover 45% cover 55%;
+  }
+
+  .why-nammaway .swapper img:first-of-type {
+    opacity: 1;
+    animation-direction: reverse;
+  }
+
+  .why-nammaway .progress div > div {
+    animation: swapper-fill-up both linear;
+    animation-timeline: --container;
+  }
+
+  .why-nammaway .progress div:first-of-type > div {
+    animation-range: 50vh calc(50vh + (var(--col-two-height) * 0.125));
+  }
+
+  .why-nammaway .progress div:last-of-type > div {
+    animation-range: calc(75vh + (var(--col-two-height) * 0.25)) calc(100vh + (var(--col-two-height) * 0.25));
+  }
+
+  @media (max-width: 768px) {
+    .why-nammaway .controller {
+      height: calc(var(--col-two-height) * 1.5);
+    }
+    .why-nammaway .swapper {
+      view-timeline-name: --swapper;
+      width: 65%;
+      min-width: 300px;
+      height: calc(var(--col-one-height) * 2);
+      animation: swapper-flip both steps(1, end);
+      animation-timeline: view();
+      animation-range: 50vh calc(75vh + (var(--col-two-height) * 0.25));
+    }
+    .why-nammaway .swapper img {
+      mix-blend-mode: normal;
+      animation-timeline: view();
+    }
+    .why-nammaway .progress div > div {
+      animation-timeline: --swapper;
+    }
+  }
+}
+
+/* Feature description blocks between image boxes */
+.why-nammaway .feature-description {
+  padding: 4rem 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.why-nammaway .feature-description h3 {
+  font-size: clamp(1.75rem, 4vw, 2.5rem);
+  font-weight: 700;
+  margin-bottom: 1rem;
+  background: linear-gradient(135deg, hsl(217, 91%, 60%), hsl(271, 76%, 53%));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.why-nammaway .feature-description p {
+  font-size: clamp(1rem, 2vw, 1.25rem);
+  color: hsl(220 10% 45%);
+  line-height: 1.7;
+  max-width: 60ch;
+  margin: 0 auto;
+}
+
+.why-nammaway .feature-description .feature-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+  text-align: left;
+}
+
+.why-nammaway .feature-description .feature-item {
+  padding: 1.5rem;
+  background: hsl(220 20% 98%);
+  border-radius: 12px;
+  border: 1px solid hsl(220 15% 88%);
+}
+
+.why-nammaway .feature-description .feature-item h4 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: hsl(220 30% 10%);
+}
+
+.why-nammaway .feature-description .feature-item p {
+  font-size: 0.9rem;
+  color: hsl(220 10% 45%);
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .why-nammaway .image-box {
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    padding: 1rem;
+  }
+
+  .why-nammaway .feature-description {
+    padding: 3rem 1rem;
+  }
+
+  .why-nammaway .feature-description .feature-list {
+    grid-template-columns: 1fr;
+  }
+}

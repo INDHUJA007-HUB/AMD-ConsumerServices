@@ -1,0 +1,1061 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-26T16:50:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/70214583",
+        "amenity": "parking"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9978217,
+              11.0825793
+            ],
+            [
+              76.9977509,
+              11.0820123
+            ],
+            [
+              76.998274,
+              11.0819694
+            ],
+            [
+              76.9983127,
+              11.0825278
+            ],
+            [
+              76.9978217,
+              11.0825793
+            ]
+          ]
+        ]
+      },
+      "id": "way/70214583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/133739505",
+        "Jurisdiction Area": "Saravanampatty, Coimbatore-641035",
+        "amenity": "police",
+        "name": "B9 Saravanampatty Police Station",
+        "phone": "0422 – 2666445"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.0026258,
+              11.0746626
+            ],
+            [
+              77.0027685,
+              11.0746367
+            ],
+            [
+              77.0027938,
+              11.0747709
+            ],
+            [
+              77.0027181,
+              11.0747846
+            ],
+            [
+              77.0026511,
+              11.0747967
+            ],
+            [
+              77.0026258,
+              11.0746626
+            ]
+          ]
+        ]
+      },
+      "id": "way/133739505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172004025",
+        "amenity": "college",
+        "name": "KGISL IIM"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9966515,
+              11.0835872
+            ],
+            [
+              76.9966286,
+              11.0833324
+            ],
+            [
+              76.9972308,
+              11.0832803
+            ],
+            [
+              76.9972463,
+              11.0834526
+            ],
+            [
+              76.9973404,
+              11.0834445
+            ],
+            [
+              76.9973327,
+              11.0833589
+            ],
+            [
+              76.9976563,
+              11.0833309
+            ],
+            [
+              76.9976714,
+              11.0834991
+            ],
+            [
+              76.9966515,
+              11.0835872
+            ]
+          ]
+        ]
+      },
+      "id": "way/172004025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172004028",
+        "amenity": "college",
+        "name": "KGISL Institute of Technology",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9984722,
+              11.0850999
+            ],
+            [
+              76.9978668,
+              11.0850576
+            ],
+            [
+              76.9978924,
+              11.0847049
+            ],
+            [
+              76.9984929,
+              11.0847469
+            ],
+            [
+              76.9984849,
+              11.0848568
+            ],
+            [
+              76.9980022,
+              11.0848231
+            ],
+            [
+              76.9979926,
+              11.0849553
+            ],
+            [
+              76.9984802,
+              11.0849894
+            ],
+            [
+              76.9984722,
+              11.0850999
+            ]
+          ]
+        ]
+      },
+      "id": "way/172004028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172009072",
+        "amenity": "parking"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9962763,
+              11.0841912
+            ],
+            [
+              76.996237,
+              11.0837516
+            ],
+            [
+              76.9977591,
+              11.0836205
+            ],
+            [
+              76.9977985,
+              11.08406
+            ],
+            [
+              76.9962763,
+              11.0841912
+            ]
+          ]
+        ]
+      },
+      "id": "way/172009072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172009586",
+        "leisure": "pitch"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9974472,
+              11.0859854
+            ],
+            [
+              76.9974521,
+              11.0857861
+            ],
+            [
+              76.9972687,
+              11.0857818
+            ],
+            [
+              76.9972797,
+              11.0853339
+            ],
+            [
+              76.9978263,
+              11.0853467
+            ],
+            [
+              76.9978104,
+              11.085994
+            ],
+            [
+              76.9974472,
+              11.0859854
+            ]
+          ]
+        ]
+      },
+      "id": "way/172009586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/193064474",
+        "amenity": "restaurant",
+        "building": "residential",
+        "cuisine": "indian",
+        "name": "Ranjini mess"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.0006111,
+              11.0818587
+            ],
+            [
+              77.000683,
+              11.0818578
+            ],
+            [
+              77.0007155,
+              11.0818573
+            ],
+            [
+              77.0007181,
+              11.0820463
+            ],
+            [
+              77.0006138,
+              11.0820477
+            ],
+            [
+              77.0006111,
+              11.0818587
+            ]
+          ]
+        ]
+      },
+      "id": "way/193064474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/193074693",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.0006627,
+              11.0812418
+            ],
+            [
+              77.0008005,
+              11.0812443
+            ],
+            [
+              77.0007979,
+              11.08138
+            ],
+            [
+              77.0006601,
+              11.0813775
+            ],
+            [
+              77.0006627,
+              11.0812418
+            ]
+          ]
+        ]
+      },
+      "id": "way/193074693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/193438565",
+        "amenity": "place_of_worship",
+        "name": "Vinayagar temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.0009196,
+              11.0813883
+            ],
+            [
+              77.0006418,
+              11.0813958
+            ],
+            [
+              77.0006366,
+              11.0810158
+            ],
+            [
+              77.0009151,
+              11.0810217
+            ],
+            [
+              77.0009196,
+              11.0813883
+            ]
+          ]
+        ]
+      },
+      "id": "way/193438565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/194879734",
+        "amenity": "school",
+        "name": "Ruby Matriculation School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.001867,
+              11.0821755
+            ],
+            [
+              77.0019917,
+              11.0821819
+            ],
+            [
+              77.0019664,
+              11.0826615
+            ],
+            [
+              77.0014849,
+              11.0826371
+            ],
+            [
+              77.0014906,
+              11.0825293
+            ],
+            [
+              77.0018474,
+              11.0825474
+            ],
+            [
+              77.001867,
+              11.0821755
+            ]
+          ]
+        ]
+      },
+      "id": "way/194879734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1236277416",
+        "addr:housenumber": "241",
+        "addr:postcode": "641035",
+        "addr:street": "Sathyamangalam Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Bells",
+        "source": "microsoft/BuildingFootprints"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.0026057,
+              11.0734775
+            ],
+            [
+              77.0026021,
+              11.0736275
+            ],
+            [
+              77.0024117,
+              11.0736231
+            ],
+            [
+              77.0024079,
+              11.0737809
+            ],
+            [
+              77.0022069,
+              11.0737762
+            ],
+            [
+              77.0022143,
+              11.0734684
+            ],
+            [
+              77.0026057,
+              11.0734775
+            ]
+          ]
+        ]
+      },
+      "id": "way/1236277416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1246140277",
+        "addr:housename": "KGISL Institute of Information Management",
+        "addr:postcode": "641035",
+        "addr:street": "KG Campus,365, Thudiyalur Road,Saravanampatti",
+        "amenity": "school",
+        "building": "yes",
+        "name": "KGISL Institute of Information Management",
+        "source": "Self;microsoft/BuildingFootprints"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.9967024,
+              11.0833281
+            ],
+            [
+              76.9971526,
+              11.0832868
+            ],
+            [
+              76.9971585,
+              11.0832585
+            ],
+            [
+              76.9973239,
+              11.0832434
+            ],
+            [
+              76.9974086,
+              11.0832606
+            ],
+            [
+              76.9974263,
+              11.083259
+            ],
+            [
+              76.9975598,
+              11.0832862
+            ],
+            [
+              76.9975966,
+              11.0832828
+            ],
+            [
+              76.9976006,
+              11.0833246
+            ],
+            [
+              76.9977814,
+              11.0833079
+            ],
+            [
+              76.9977998,
+              11.083501
+            ],
+            [
+              76.9975886,
+              11.0835204
+            ],
+            [
+              76.9975792,
+              11.0835647
+            ],
+            [
+              76.9975053,
+              11.0835715
+            ],
+            [
+              76.9975153,
+              11.0835246
+            ],
+            [
+              76.9971241,
+              11.0835605
+            ],
+            [
+              76.9971153,
+              11.0836021
+            ],
+            [
+              76.9970403,
+              11.083609
+            ],
+            [
+              76.9970364,
+              11.0835686
+            ],
+            [
+              76.9963106,
+              11.0836353
+            ],
+            [
+              76.9962921,
+              11.0834422
+            ],
+            [
+              76.9966777,
+              11.0834067
+            ],
+            [
+              76.996683,
+              11.0834627
+            ],
+            [
+              76.9967066,
+              11.0834675
+            ],
+            [
+              76.9967129,
+              11.083438
+            ],
+            [
+              76.9967024,
+              11.0833281
+            ]
+          ]
+        ]
+      },
+      "id": "way/1246140277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/321420720",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum",
+        "operator": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0042231,
+          11.08003
+        ]
+      },
+      "id": "node/321420720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/321420726",
+        "brand": "Reliance Fresh",
+        "brand:wikidata": "Q7311014",
+        "name": "Reliance Fresh",
+        "name:ta": "ரிலையன்ஸ் ஃப்ரெஷ்",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0040591,
+          11.0787956
+        ]
+      },
+      "id": "node/321420726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1469101395",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "KG Eye Hospital",
+        "source": "Self"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.997422,
+          11.0825506
+        ]
+      },
+      "id": "node/1469101395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1469109274",
+        "addr:full": "365, Thudiyalur Road, Saravanampatti, Coimbatore - 641035",
+        "amenity": "college",
+        "email": "info@kgcas.com",
+        "fax": "+914222668955",
+        "name": "KG College of Arts and Science",
+        "phone": "+914224419999",
+        "short_name": "KGCAS",
+        "source": "Self",
+        "website": "https://www.kgcas.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q6329957",
+        "wikipedia": "en:KG College of Arts and Science"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9974565,
+          11.0835993
+        ]
+      },
+      "id": "node/1469109274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1469149959",
+        "addr:housename": "SeaSkills Maritime Academy",
+        "addr:postcode": "641035",
+        "addr:street": "KG Campus",
+        "amenity": "school",
+        "name": "SeaSkills Maritime Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.998578,
+          11.0829794
+        ]
+      },
+      "id": "node/1469149959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1469151232",
+        "amenity": "atm",
+        "brand": "Canara Bank",
+        "brand:en": "Canara Bank",
+        "brand:hi": "केनरा बैंक",
+        "brand:kn": "ಕೆನರಾ ಬ್ಯಾಂಕ್",
+        "brand:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+        "brand:pnb": "کینرا بینک",
+        "brand:ur": "کینرا بینک",
+        "brand:wikidata": "Q2003777",
+        "name:en": "Canara Bank",
+        "name:hi": "केनरा बैंक",
+        "name:kn": "ಕೆನರಾ ಬ್ಯಾಂಕ್",
+        "name:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+        "name:pnb": "کینرا بینک",
+        "name:ur": "کینرا بینک",
+        "operator": "Canara Bank",
+        "operator:wikidata": "Q2003777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9982883,
+          11.0801445
+        ]
+      },
+      "id": "node/1469151232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1469151440",
+        "addr:housename": "Canara Bank",
+        "addr:postcode": "641035",
+        "addr:street": "KG Campus",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Canara Bank",
+        "brand:en": "Canara Bank",
+        "brand:hi": "केनरा बैंक",
+        "brand:kn": "ಕೆನರಾ ಬ್ಯಾಂಕ್",
+        "brand:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+        "brand:pnb": "کینرا بینک",
+        "brand:ur": "کینرا بینک",
+        "brand:wikidata": "Q2003777",
+        "brand:wikipedia": "en:Canara Bank",
+        "brand:wikipedia:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+        "name": "Canara Bank",
+        "name:en": "Canara Bank",
+        "name:hi": "केनरा बैंक",
+        "name:kn": "ಕೆನರಾ ಬ್ಯಾಂಕ್",
+        "name:pa": "ਕੇਨਰਾ ਬੈਂਕ",
+        "name:pnb": "کینرا بینک",
+        "name:ur": "کینرا بینک",
+        "website": "https://www.canarabank.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9978323,
+          11.0816449
+        ]
+      },
+      "id": "node/1469151440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474328820",
+        "amenity": "fast_food",
+        "name": "Jyothi Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0037211,
+          11.0784165
+        ]
+      },
+      "id": "node/1474328820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474328934",
+        "amenity": "fast_food",
+        "cuisine": "coffee_shop",
+        "name": "AR Bakes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0033617,
+          11.0786745
+        ]
+      },
+      "id": "node/1474328934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474329375",
+        "amenity": "place_of_worship",
+        "name": "Karivaradharaja Perumal Temple",
+        "name:ta": "கரிவரதராஜ பெருமாள் கோயில்",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0019574,
+          11.0767083
+        ]
+      },
+      "id": "node/1474329375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474330371",
+        "amenity": "atm",
+        "brand": "Indian Bank",
+        "brand:wikidata": "Q2003789",
+        "operator": "Indian Bank",
+        "operator:wikidata": "Q2003789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0023705,
+          11.076324
+        ]
+      },
+      "id": "node/1474330371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474348707",
+        "addr:street": "Coimbatore to annur Road",
+        "amenity": "school",
+        "name": "Saravanampatty Elementary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0017133,
+          11.0763477
+        ]
+      },
+      "id": "node/1474348707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474349444",
+        "amenity": "restaurant",
+        "name": "Four Seasons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0023866,
+          11.0757923
+        ]
+      },
+      "id": "node/1474349444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474350853",
+        "amenity": "police",
+        "name": "Saravanampatti Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0027116,
+          11.0747296
+        ]
+      },
+      "id": "node/1474350853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474352272",
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name": "Guru Amudhas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0017777,
+          11.0738286
+        ]
+      },
+      "id": "node/1474352272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1913577470",
+        "amenity": "atm",
+        "name": "Bank Atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.002329,
+          11.075898
+        ]
+      },
+      "id": "node/1913577470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1913578166",
+        "amenity": "restaurant",
+        "name": "Full Moon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0024122,
+          11.0796853
+        ]
+      },
+      "id": "node/1913578166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2094501342",
+        "amenity": "ice_cream",
+        "name": "Arun icecreams"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9996907,
+          11.0796225
+        ]
+      },
+      "id": "node/2094501342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3935613631",
+        "amenity": "library",
+        "name": "Branch library",
+        "opening_hours": "Mo-Th, Sa, Su 09:00-12:00, 16:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.003617,
+          11.0747052
+        ]
+      },
+      "id": "node/3935613631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6915018746",
+        "addr:district": "Coimbatore",
+        "addr:full": "12/93 A, Sathy-Mettupalayam South West Street, Sirumugai",
+        "addr:postcode": "641302",
+        "addr:state": "Tamil Nadu",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Sri Loga Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0017429,
+          11.072535
+        ]
+      },
+      "id": "node/6915018746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257155919",
+        "addr:block": "Coimbatore Corpn",
+        "addr:district": "Coimbatore",
+        "addr:full": "No: 103, Sathy Road, Near Kalapatti Pirivu, Poonthottam Nagar, Saravanampatti, Coimbatore",
+        "addr:postcode": "641035",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Coimbatore South",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Geethasree Hospital, Coimbatore",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.002444,
+          11.07196
+        ]
+      },
+      "id": "node/7257155919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11097189947",
+        "addr:city": "Coimbatore",
+        "addr:district": "Coimbatore",
+        "addr:housenumber": "9D",
+        "addr:postcode": "641035",
+        "addr:street": "Thudiyalur - Saravanampatty Road",
+        "amenity": "pub",
+        "brewery": "no;pint_beer;dj;dance;music;pub",
+        "min_age": "21",
+        "name": "Le Hive Lounge",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "smoking": "isolated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.000261,
+          11.0794356
+        ]
+      },
+      "id": "node/11097189947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12201233948",
+        "name": "Pazhamudir",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.003195,
+          11.0791837
+        ]
+      },
+      "id": "node/12201233948"
+    }
+  ]
+}

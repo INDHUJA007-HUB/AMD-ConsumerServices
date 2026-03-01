@@ -1,0 +1,89 @@
+[
+  {
+    "id": "CBE-F01",
+    "name": "Spacious 2BHK in RS Puram",
+    "area": "RS Puram, Coimbatore",
+    "locality": "RS Puram",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹18,000/month",
+    "priceRaw": 18000,
+    "description": "Well-ventilated 2BHK apartment in the heart of RS Puram. Walking distance to schools, banks, and supermarkets. The unit features wide windows, modular kitchen, and ample storage.",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "areaSqft": "1050",
+    "furnishing": "Semi-Furnished",
+    "propertyType": "Apartment",
+    "amenities": [
+      "Power Backup",
+      "Security",
+      "Lift",
+      "Car Parking",
+      "Gym"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/2bhk-rs-puram.jpg"
+    ],
+    "phone": "+91 9876543210",
+    "ownerName": "Ramesh Kumar",
+    "url": "https://housing.com/in/rent/coimbatore/rs-puram/2bhk",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F02",
+    "name": "3BHK Independent House – Saibaba Colony",
+    "area": "Saibaba Colony, Coimbatore",
+    "locality": "Saibaba Colony",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹28,000/month",
+    "priceRaw": 28000,
+    "description": "Independent 3BHK house with private garden, separate servant quarters, and a spacious terrace. Quiet neighbourhood, ideal for families.",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "areaSqft": "1800",
+    "furnishing": "Fully Furnished",
+    "propertyType": "Independent House",
+    "amenities": [
+      "Garden",
+      "Car Parking",
+      "Terrace",
+      "24/7 Water",
+      "Security"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/3bhk-saibaba-colony.jpg"
+    ],
+    "phone": "+91 9123456789",
+    "ownerName": "Priya Nair",
+    "url": "https://housing.com/in/rent/coimbatore/saibaba-colony/3bhk-house",
+    "source": "Housing.com (curated)"
+  },
+  {
+    "id": "CBE-F03",
+    "name": "Modern 1BHK Studio – Gandhipuram",
+    "area": "Gandhipuram, Coimbatore",
+    "locality": "Gandhipuram",
+    "city": "Coimbatore",
+    "pricePerMonth": "₹10,500/month",
+    "priceRaw": 10500,
+    "description": "Compact and stylish studio apartment near Gandhipuram bus stand. Ideal for working professionals. High-speed internet ready.",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "areaSqft": "550",
+    "furnishing": "Fully Furnished",
+    "propertyType": "Studio Apartment",
+    "amenities": [
+      "Wi-Fi Ready",
+      "Power Backup",
+      "CCTV",
+      "Lift",
+      "Laundry"
+    ],
+    "images": [
+      "https://images.housing.com/cropped_images/2023/07/studio-gandhipuram.jpg"
+    ],
+    "phone": "+91 9988776655",
+    "ownerName": "Anitha Selvam",
+    "url": "https://housing.com/in/rent/coimbatore/gandhipuram/studio",
+    "source": "Housing.com (curated)"
+  }
+]

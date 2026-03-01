@@ -1,0 +1,358 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-18T15:12:14Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/247177830",
+        "name": "SREC Ladies Hostel",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9645328,
+          11.100144
+        ]
+      },
+      "id": "node/247177830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/247177849",
+        "name": "SREC Boys Hostel",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9683793,
+          11.1010721
+        ]
+      },
+      "id": "node/247177849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/343693450",
+        "name": "Vijayalakshmi Apts",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.94436,
+          11.01993
+        ]
+      },
+      "id": "node/343693450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039493019",
+        "internet_access": "no",
+        "name": "Surya Ladies Hostel",
+        "smoking": "no",
+        "tourism": "hostel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.979545,
+          11.0389557
+        ]
+      },
+      "id": "node/1039493019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1914697105",
+        "addr:housename": "Purva Bluemont",
+        "addr:housenumber": "2247/48",
+        "addr:street": "Trichy Road",
+        "building": "apartments",
+        "name": "Purva Bluemont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0369322,
+          11.0021487
+        ]
+      },
+      "id": "node/1914697105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4320655206",
+        "name": "GIRLS HOSTEL",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0228024,
+          10.8777229
+        ]
+      },
+      "id": "node/4320655206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4445028791",
+        "name": "palaru,ponnaiyaru,kaveri hostels,gct",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9363797,
+          11.0201165
+        ]
+      },
+      "id": "node/4445028791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4445057789",
+        "addr:street": "Thadagam Road",
+        "name": "thamirabarani hostel,gct",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9342821,
+          11.0197513
+        ]
+      },
+      "id": "node/4445057789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4445057889",
+        "name": "vaigai hostel",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9349592,
+          11.0196957
+        ]
+      },
+      "id": "node/4445057889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4445057990",
+        "name": "bhavani hostel, gct",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9352756,
+          11.019381
+        ]
+      },
+      "id": "node/4445057990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4497888190",
+        "addr:postcode": "641013",
+        "addr:street": "Thadagam Road",
+        "name:en": "Vellaru illam,gct",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9344924,
+          11.0204335
+        ]
+      },
+      "id": "node/4497888190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4497893389",
+        "name:en": "Thamiraparani illam",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9345138,
+          11.0197713
+        ]
+      },
+      "id": "node/4497893389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603303890",
+        "building": "apartments",
+        "name": "Mayflower Metropolis Apartments"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9992247,
+          11.0129156
+        ]
+      },
+      "id": "node/4603303890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4794999922",
+        "name:en": "Rajamani Enclave",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0025942,
+          11.0682318
+        ]
+      },
+      "id": "node/4794999922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5209173515",
+        "name": "Red Fort Hostel",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9400469,
+          11.0095957
+        ]
+      },
+      "id": "node/5209173515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5261712343",
+        "contact:mobile": "+91 9488901368",
+        "name": "Kowsiga Home Stay",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.961105,
+          10.3323389
+        ]
+      },
+      "id": "node/5261712343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8595994805",
+        "name": "tnau hostel",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9313221,
+          11.0143566
+        ]
+      },
+      "id": "node/8595994805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10895636343",
+        "access": "private",
+        "name": "JR Residents Hostel",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0242897,
+          11.008378
+        ]
+      },
+      "id": "node/10895636343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11367692370",
+        "internet_access": "wlan",
+        "level": "2",
+        "name:en": "Bharati Hostel",
+        "opening_hours": "24/7",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0356202,
+          11.0325
+        ]
+      },
+      "id": "node/11367692370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13322105821",
+        "name": "BOYS HOSTEL",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0217002,
+          10.8773941
+        ]
+      },
+      "id": "node/13322105821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13452973668",
+        "name": "Valparai Jungle Stay",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8995791,
+          10.3033269
+        ]
+      },
+      "id": "node/13452973668"
+    }
+  ]
+}

@@ -44,9 +44,11 @@ const CoimbatoreMap: React.FC<CoimbatoreMapProps> = ({
             try {
                 setError(null);
 
-                // When using an API Key, the standard approach with AWS Location V2 is to point directly to the style descriptor. 
-                const styleName = mapName === 'default' || mapName === 'ExploreMap' ? 'Standard' : mapName;
-                const styleUrl = `https://maps.geo.${region}.amazonaws.com/v2/styles/${styleName}/descriptor?key=${apiKey}`;
+                const styleName = mapName === 'default' || mapName === 'ExploreMap' ? 'CoimbatoreSmartMap' : mapName;
+                const awsStyleUrl = `https://maps.geo.${region}.amazonaws.com/maps/v0/maps/${styleName}/style-descriptor?key=${apiKey}`;
+
+                // Free, beautiful, public base map style that requires no API key!
+                const styleUrl = 'https://basemaps.cartocdn.com/gl/positron-gl-style/style.json';
 
                 mapInstance = new maplibregl.Map({
                     container: mapContainer.current!,

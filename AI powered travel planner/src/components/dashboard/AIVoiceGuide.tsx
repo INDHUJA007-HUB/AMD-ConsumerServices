@@ -133,7 +133,8 @@ const SmartVoiceGuide = () => {
         setTranscript(""); // Clear user transcript for display
 
         try {
-            const response = await fetch("http://127.0.0.1:8000/api/voice-query", {
+            const backendUrl = import.meta.env.VITE_BACKEND_URL || "http://127.0.0.1:8000";
+            const response = await fetch(`${backendUrl}/api/voice-query`, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({

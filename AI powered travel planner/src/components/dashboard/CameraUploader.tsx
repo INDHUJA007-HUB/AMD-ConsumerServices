@@ -47,7 +47,8 @@ export const CameraUploader = () => {
         formData.append('image', selectedFile);
 
         try {
-            const res = await fetch('http://localhost:8000/api/visual-linguist', {
+            const backendUrl = import.meta.env.VITE_BACKEND_URL || 'http://localhost:8000';
+            const res = await fetch(`${backendUrl}/api/visual-linguist`, {
                 method: 'POST',
                 body: formData,
             });

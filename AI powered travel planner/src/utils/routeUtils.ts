@@ -58,7 +58,7 @@ export async function generateRoutesFromAWS(
 
     if (!apiKey) {
         console.error("Missing AWS Location API Key");
-        return getMockRoutesFallback(destination);
+        return getMockRoutesFallback(destination, destinationCoords, originName, originCoords);
     }
 
     try {
@@ -90,7 +90,7 @@ export async function generateRoutesFromAWS(
 
             if (!searchData.ResultItems || searchData.ResultItems.length === 0) {
                 console.warn(`Could not find coordinates for destination: ${destination}`);
-                return getMockRoutesFallback(destination);
+                return getMockRoutesFallback(destination, destinationCoords, originName, originCoords);
             }
 
             destCoords = searchData.ResultItems[0].Place.Position; // [longitude, latitude]
@@ -254,15 +254,28 @@ export async function generateRoutesFromAWS(
 
     } catch (e) {
         console.error("Error calculating routes with AWS Location:", e);
-        return getMockRoutesFallback(destination);
+        return getMockRoutesFallback(destination, destinationCoords, originName, originCoords);
     }
 }
 
-// Keep the old logic as a fallback
-function getMockRoutesFallback(destination: string): RouteOption[] {
-    const startNode = { lat: 11.0168, lon: 76.9616, tags: { name: 'Coimbatore Center' } };
-    const endNode = { lat: 11.0045, lon: 76.9616, tags: { name: destination } };
-    const adjustedDistance = 4.2;
+// Keep the old logic as a fallback, but make it dynamic based on inputs
+function getMockRoutesFallback(
+    destination: string,
+    destinationCoords?: [number, number],
+    originName?: string,
+    originCoords?: [number, number]
+): RouteOption[] {
+    const lat1 = originCoords ? originCoords[1] : 11.0168;
+    const lon1 = originCoords ? originCoords[0] : 76.9616;
+    const lat2 = destinationCoords ? destinationCoords[1] : 11.0045;
+    const lon2 = destinationCoords ? destinationCoords[0] : 76.9616;
+
+    const startNode = { lat: lat1, lon: lon1, tags: { name: originName || 'Coimbatore Center' } };
+    const endNode = { lat: lat2, lon: lon2, tags: { name: destination } };
+
+    // Calculate actual straight-line distance, multiplied by standard 1.3x road metric
+    const straightDistance = calculateDistance(lat1, lon1, lat2, lon2);
+    const adjustedDistance = straightDistance > 0 ? straightDistance * 1.3 : 4.2;
 
     const now = new Date();
     const formatTime = (addMins: number) => {
@@ -273,6 +286,20 @@ function getMockRoutesFallback(destination: string): RouteOption[] {
     const cabDuration = Math.round(adjustedDistance * 4) + 10;
     const busDuration = Math.round(adjustedDistance * 7) + 15;
     const walkDuration = Math.round(adjustedDistance * 15);
+
+    // Create a mock lineString that curves slightly to represent a realistic road
+    const generateFallbackLineString = () => {
+        const midLat = (lat1 + lat2) / 2 + (Math.random() * 0.01 - 0.005);
+        const midLon = (lon1 + lon2) / 2 + (Math.random() * 0.01 - 0.005);
+
+        return [
+            [lon1, lat1] as [number, number],
+            [midLon, midLat] as [number, number],
+            [lon2, lat2] as [number, number]
+        ];
+    };
+
+    const lineStr = generateFallbackLineString();
 
     return [
         {
@@ -285,10 +312,11 @@ function getMockRoutesFallback(destination: string): RouteOption[] {
             cost: Math.round((adjustedDistance * 25) + 80),
             mode: 'car',
             pathOptions: [
-                { lat: startNode.lat, lon: startNode.lon, name: `Pick up at ${startNode.tags?.name || 'Current Location'}` },
-                { lat: endNode.lat, lon: endNode.lon, name: `Drop off at ${destination || endNode.tags?.name || 'Destination'}` }
+                { lat: startNode.lat, lon: startNode.lon, name: `Pick up at ${startNode.tags?.name}` },
+                { lat: endNode.lat, lon: endNode.lon, name: `Drop off at ${endNode.tags?.name}` }
             ],
-            description: `ETA ${formatTime(cabDuration)}`
+            description: `ETA ${formatTime(cabDuration)}`,
+            geometry: { lineString: lineStr }
         },
         {
             id: 'smartest',
@@ -300,10 +328,11 @@ function getMockRoutesFallback(destination: string): RouteOption[] {
             cost: Math.round((adjustedDistance * 4) + 10),
             mode: 'bus',
             pathOptions: [
-                { lat: startNode.lat, lon: startNode.lon, name: `Walk 2 mins to ${startNode.tags?.name || 'Bus Stop'}` },
-                { lat: endNode.lat, lon: endNode.lon, name: `Arrive at ${destination || endNode.tags?.name || 'Destination Stop'}` }
+                { lat: startNode.lat, lon: startNode.lon, name: `Walk 2 mins to bus stop from ${startNode.tags?.name}` },
+                { lat: endNode.lat, lon: endNode.lon, name: `Arrive at transit stop near ${endNode.tags?.name}` }
             ],
-            description: `ETA ${formatTime(busDuration)}`
+            description: `ETA ${formatTime(busDuration)}`,
+            geometry: { lineString: lineStr }
         },
         {
             id: 'sustainable',
@@ -315,10 +344,11 @@ function getMockRoutesFallback(destination: string): RouteOption[] {
             cost: 0,
             mode: 'walk',
             pathOptions: [
-                { lat: startNode.lat, lon: startNode.lon, name: `Start walking from ${startNode.tags?.name || 'Current Location'}` },
-                { lat: endNode.lat, lon: endNode.lon, name: `Arrive at ${destination || endNode.tags?.name || 'Destination'}` }
+                { lat: startNode.lat, lon: startNode.lon, name: `Start walking from ${startNode.tags?.name}` },
+                { lat: endNode.lat, lon: endNode.lon, name: `Arrive at ${endNode.tags?.name}` }
             ],
-            description: `ETA ${formatTime(walkDuration)}`
+            description: `ETA ${formatTime(walkDuration)}`,
+            geometry: { lineString: lineStr }
         }
     ];
 }

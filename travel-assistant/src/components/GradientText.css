@@ -1,0 +1,33 @@
+/* Gradient text base styles */
+.gradient-text {
+  display: inline-block;
+  position: relative;
+}
+
+/* Keyframe animation for gradient color cycling */
+@keyframes gradient-shift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Optional border effect */
+.gradient-text-border {
+  padding: 2px;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(82, 39, 255, 0.3);
+}
+
+/* Fallback for browsers that don't support background-clip: text */
+@supports not (background-clip: text) {
+  .gradient-text {
+    color: #5227FF;
+    background-image: none;
+  }
+}

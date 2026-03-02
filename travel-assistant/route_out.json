@@ -1,0 +1,166 @@
+{
+  "LegGeometryFormat": "Simple",
+  "Notices": [],
+  "Routes": [
+    {
+      "Legs": [
+        {
+          "Geometry": {
+            "LineString": [
+              [
+                76.961605,
+                11.016999
+              ],
+              [
+                76.96155,
+                11.017
+              ],
+              [
+                76.96115,
+                11.01699
+              ],
+              [
+                76.96023,
+                11.01694
+              ],
+              [
+                76.96005,
+                11.01693
+              ],
+              [
+                76.95978,
+                11.0169
+              ],
+              [
+                76.95944,
+                11.01688
+              ],
+              [
+                76.95921,
+                11.01686
+              ],
+              [
+                76.95879,
+                11.01683
+              ],
+              [
+                76.9585,
+                11.01681
+              ],
+              [
+                76.95818,
+                11.01681
+              ],
+              [
+                76.95646,
+                11.01682
+              ],
+              [
+                76.95625,
+                11.01683
+              ],
+              [
+                76.95605,
+                11.01685
+              ],
+              [
+                76.95599,
+                11.01685
+              ],
+              [
+                76.95592,
+                11.01685
+              ],
+              [
+                76.95581,
+                11.01685
+              ]
+            ]
+          },
+          "TravelMode": "Car",
+          "Type": "Vehicle",
+          "VehicleLegDetails": {
+            "Arrival": {
+              "Place": {
+                "OriginalPosition": [
+                  76.9558,
+                  11.0167999
+                ],
+                "Position": [
+                  76.95581,
+                  11.01685
+                ]
+              }
+            },
+            "Departure": {
+              "Place": {
+                "OriginalPosition": [
+                  76.9615999,
+                  11.0167999
+                ],
+                "Position": [
+                  76.9616046,
+                  11.0169985
+                ]
+              }
+            },
+            "Incidents": [],
+            "Notices": [],
+            "PassThroughWaypoints": [],
+            "Spans": [],
+            "Summary": {
+              "Overview": {
+                "BestCaseDuration": 73,
+                "Distance": 636,
+                "Duration": 73
+              },
+              "TravelOnly": {
+                "BestCaseDuration": 73,
+                "Duration": 73
+              }
+            },
+            "Tolls": [],
+            "TollSystems": [],
+            "TravelSteps": [
+              {
+                "Distance": 376,
+                "Duration": 44,
+                "ExitNumber": [],
+                "GeometryOffset": 0,
+                "Type": "Depart"
+              },
+              {
+                "Distance": 260,
+                "Duration": 29,
+                "ExitNumber": [],
+                "GeometryOffset": 10,
+                "Type": "Continue"
+              },
+              {
+                "Distance": 0,
+                "Duration": 0,
+                "ExitNumber": [],
+                "GeometryOffset": 16,
+                "Type": "Arrive"
+              }
+            ],
+            "TruckRoadTypes": [],
+            "Zones": []
+          }
+        }
+      ],
+      "MajorRoadLabels": [
+        {
+          "RouteNumber": {
+            "Language": "en",
+            "Value": "SH-162"
+          }
+        }
+      ],
+      "Summary": {
+        "Distance": 636,
+        "Duration": 73
+      }
+    }
+  ]
+}

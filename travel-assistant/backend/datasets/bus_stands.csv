@@ -1,0 +1,258 @@
+Bus Number,Source,Destination,Departure Time,Arrival Time
+1,Maruthamalai,Avarampalayam,N/A,N/A
+"1A,1C",Ondipudur,Vadavalli,N/A,N/A
+"1D,1E",Ondipudur,Maruthamalai,N/A,N/A
+"2,2A",Perur,Polytechnic,N/A,N/A
+2B,Ondipudur,Telungupalayam,N/A,N/A
+2C,Kannapanagar,Perur,N/A,N/A
+2D,Sitra,Kurinji Nagar,N/A,N/A
+"3,3A",Ganapathy,Madukkarai,N/A,N/A
+3B,Madukkarai,Saibaba Colony,N/A,N/A
+3C,Ganapathy,Thirumalayampalayam,N/A,N/A
+3D,Ganapathy,Kovaipudur,N/A,N/A
+3E,Gandhipuram,Thirumalayampalayam,N/A,N/A
+3F,Madukkarai,Saibaba Colony,N/A,N/A
+3G,Ganapathy,K. Kavundan Chavadi,N/A,N/A
+3H,ACC,velandipalayam,N/A,N/A
+3K,Ganapathy,Kovaipudur,N/A,N/A
+"4,4A",Thudiyalur,Podanur,N/A,N/A
+4B,Ukkadam,Press Colony,N/A,N/A
+4C,Srinivasa Nagar,Saibaba Colony,N/A,N/A
+"4F,4G",Ondipudur,Thudiyalur,N/A,N/A
+4H,Railway Station,Press Colony,N/A,N/A
+4K,Thudiyalur,Selvapuram,N/A,N/A
+4M,Thudiyalur,Nanjundapuram,N/A,N/A
+5,Sivananda Colony,Sivananda Colony,N/A,N/A
+50,Flower Market,Flower Market,N/A,N/A
+6,Gandhi Park,Gandhi Park,N/A,N/A
+6A,Gandhipuram,Perianaickanpalayam,N/A,N/A
+"7,7C",Gandhi Park,Gandhi Park,N/A,N/A
+8,Chettipalayam,Singanallur,N/A,N/A
+8A,Podanur,Chinthamanipudur,N/A,N/A
+8F,Madukkarai,Saibaba Colony,N/A,N/A
+9,Sundakamuthur,Krishnammal College,N/A,N/A@
+10,Saibaba Colony,Chinniampalayam,N/A,N/A
+10A,Town Hall,Madhapur,N/A,N/A
+10B,Saibaba Colony,Kalapatti,N/A,N/A
+11,Railway Station,Kanuvai,N/A,N/A
+11A,Ukkadam,Anuvavi Subramani Temple,N/A,N/A
+11B,Railway Station,Veerapandipudur,N/A,N/A
+11c,Railway Station,Somaiyanpalayam,N/A,N/A
+11F,Railway Station,Edayarpalayam,N/A,N/A
+12,Gandhipuram,Premier Mills,N/A,N/A
+12A,Gandhipuram,Arisipalayam,N/A,N/A
+12B,Railway Station,Kinathukadavu,N/A,N/A
+12C,Eachanari,Polytechnic,N/A,N/A
+12D,Gandhipuram,Nachipaiayam,N/A,N/A
+12E,Ukkadam,Velanthavalam,N/A,N/A
+13A,Ukkadam,Koiathur,N/A,N/A
+"13B,13C",Ukkadam,Thudiyalur,N/A,N/A
+14,Railway Station,Nadhegoundanpudur,N/A,N/A
+14A,Town Hall,Semmedu,N/A,N/A
+14B,Railway Station,Semmedu,N/A,N/A
+15,Sivanandha Mills,Kuniamuthur,N/A,N/A
+15A,KovaiPudur,Srinivasa Nagar,N/A,N/A
+16,Town Hall,Airport,N/A,N/A
+16A,Saibaba Colony,Aerodrome,N/A,N/A
+16B,Saibaba Colony,PSG Arts College,N/A,N/A
+17,Lakshmi Mills,Velanthavalam,N/A,N/A
+18,Gandhipuram,Arisipalayam,N/A,N/A
+19,Ukkadam,Nanjundapuram,N/A,N/A
+19A,Saibaba Colony,Vellalore,N/A,N/A
+19B,Ukkadam,Sulur Aerodrome,N/A,N/A
+19D,Gandhipuram,Appanaickenpatti,N/A,N/A
+20,Aerodrome,TVS Nagar,N/A,N/A
+20A,Chinniampalayam,TVS Nagar,N/A,N/A
+20B,SIHS Colony,Saibaba Colony,N/A,N/A
+2OC,Poochiyur,Saibaba Colony,N/A,N/A
+21,Gandhipuram,Kembanur,N/A,N/A
+21C,Devarayapuram,Thondamuthur,N/A,N/A
+22,Sowripalayam,Sugarcane Institute,N/A,N/A
+22A,Sugarcane Institute,Kovai Medical Center,N/A,N/A
+23,Velialur,Varadharajapuram,N/A,N/A
+23A,Gandhipuram,Varadhrajapuram,N/A,N/A
+24,Ukkadam,Kalapatti,N/A,N/A
+24A,Ukkadam,Serayampalayam,N/A,N/A
+25,Perur,Saibaba Colony,N/A,N/A
+26,Ukkadam,Veerapandipudur,N/A,N/A
+26A,Thondamuthur,Edayarpalayam,N/A,N/A
+27,Railway Station,Press Colony,N/A,N/A
+27A,Gandhipuram,ldigarai,N/A,N/A
+27B,Ukkadam,Press Colony,N/A,N/A
+28,Gandhipuram,Thondamuthur,N/A,N/A
+29,Gandhipuram,Pattanam,N/A,N/A
+30,Ukkadam,Kannampalayam,N/A,N/A
+30A,Gandhi Park,Sulur,N/A,N/A
+30C,Ukkadam Sulur,Aerodrome,N/A,N/A
+30E,Ukkadam,Sulur,N/A,N/A
+30F,Town Hall,Somanur,N/A,N/A
+30G,Ukkadam,Somanur,N/A,N/A
+31,Madukkarai Market,Government Polytechnic,N/A,N/A
+31A,Ondipudur,Madukkarai Market,N/A,N/A
+32,Gandhipuram,Kovanur,N/A,N/A
+32A,Railway Station,Press Colony,N/A,N/A
+328,Ukkadam,Periyanaickampalayam,N/A,N/A
+32C,Railway Station,Samy Chettipalayam,N/A,N/A
+320,Railway Station,Veerapandi,N/A,N/A
+32G,Gandhipuram,Vellamadai,N/A,N/A
+32H,Ukkadam,Kasturipalayam,N/A,N/A
+"33,33A,33C",Railway Station,Kinathukadavu,N/A,N/A
+33E,Gandhipuram,Kinathukadavu,N/A,N/A
+330,Railway Station,Kallapuram,N/A,N/A
+33E,Ukkadam,Chettipalayam,N/A,N/A
+33F,Singanallur,Premier Mills,N/A,N/A
+33F,Premier Mills,Sitra,N/A,N/A
+34,Ramanathapuram,Thadagam,N/A,N/A
+35,Avarampalayam,Karadimadai,N/A,N/A
+36,Gandhi Park,Sitra,N/A,N/A
+37,Ukkadam,Kannampalayam,N/A,N/A
+38,Ukkadam,NGGO Colony,N/A,N/A
+38A,Selvapuram,State Bank Colony,N/A,N/A
+38B,Ukkadam,State Bank Colony,N/A,N/A
+3BC,Gandhipuram,Velanthavalam,N/A,N/A
+39,Saibaba Colony,Chinniyampalayam,N/A,N/A
+40,Cherayampalayam,Saibaba Colony,N/A,N/A
+40A,Gandhipuram,Veeripalayam,N/A,N/A
+41,Gandhipuram,Somanur,N/A,N/A
+41A,Gandhipuram,Chellapa Goundanpudur,N/A,N/A
+41C,Ukkadam,Karumathampati,N/A,N/A
+42,Town Hall,lrugur,N/A,N/A
+42A,Town Hall,Neelambur,N/A,N/A
+43,Saibaba Colony,Neelikonampalayam,N/A,N/A
+43A,Railway Station,Neelampalayam,N/A,N/A
+44,Town Hall,Sowripalayam,N/A,N/A
+44,Pachapalayam,Ponnaiyarajapuram,N/A,N/A
+45,Gandhipuram,Telungupuram,N/A,N/A
+45,Gandhipuram,Vellamadai,N/A,N/A
+45A,Railway Station,Ganesapuram,N/A,N/A
+"45C,45E",Gandhipuram,Annur,N/A,N/A
+45D,Gandhipuram,Kempanaickenpalayam,N/A,N/A
+45F,Gandhipuram,Kurukkampalayam,N/A,N/A
+46,Maruthamalai,Ramanathapuram,N/A,N/A
+47,Gandhipuram,Seeralapalayam,N/A,N/A
+47A,Gandhipurarm,Premier Mills,N/A,N/A
+48,Gandhipurarm,Velanthavalam,N/A,N/A
+48A,Ukkadam,Velanthavalam,N/A,N/A
+48B,Gandhipurarm,Kommandamparai,N/A,N/A
+49,"Saibaba Colony,",Navakarai,N/A,N/A
+50,Gandhipuram,Kannamanaickenur,N/A,N/A
+51,Gandhipuram,Kanjikonampalayam,N/A,N/A
+52,Ukkadam,Saibaba Colony,N/A,N/A
+53,Srinivasa Nagar,Madukkarai,N/A,N/A
+53,Gandhipuram,Srinivasa Nagar,N/A,N/A
+53A,Gandhipuram,Thithipalayam,N/A,N/A
+54,Gandhipuram,Thondamuthur,N/A,N/A
+"55,55A",Gandhipuram,Vellalur,N/A,N/A
+55B,Gandhipuram,Edayarpalayam,N/A,N/A
+56,Gandhipuram,Poiuvampatti,N/A,N/A
+57,Ukkadam,Vellamadai,N/A,N/A
+58,Thadagam Bus Stand,Narasipuram,N/A,N/A
+59,Gandhipuram,Karunya Institute,N/A,N/A
+59A,Railway Station,Alandurai,N/A,N/A
+59B,Molapalayam,Avarampalayam,N/A,N/A
+60,Gandhipuram,Madhampatti,N/A,N/A
+61,Gandhi Park,Sowripalayam,N/A,N/A
+62,Railway Station,Vaiyampalayam,N/A,N/A
+63,Selvapuram,Keeranatham,N/A,N/A
+63,Saravanampatti,Selvapuram,N/A,N/A
+63A,Gandhipuram,Kallipalayam,N/A,N/A
+54,Ukkadam,Ondipudur,N/A,N/A
+64,Gandhipuram,Thondamuthur,N/A,N/A
+65,Gandhipuram,Kannampalayam,N/A,N/A
+66,Gandhipuram,Madukkarai Market,N/A,N/A
+66A,Gandhipuram,Masithi Goundampudur,N/A,N/A
+67,Gandhipuram,Kovaipudur,N/A,N/A
+69,Pattanam,Velandipalayam,N/A,N/A
+69B,Gandhipuram,Peedampalli,N/A,N/A
+70,Gandhipuram,Maruthamalai,N/A,N/A
+71,Kolimedu,Machanaickenpaiayam,N/A,N/A
+71A,Kurichi Housing Unit,Koil Medu,N/A,N/A
+71c,Gandhipuram,Sundarapuram,N/A,N/A
+72,Railway Station,Vellalur,N/A,N/A
+"73,73A",Gandhipuram,Chettipalayam,N/A,N/A
+73B,Gandhipuram,Kurichi Housing Unit,N/A,N/A
+74,Gandhipuram,Edayarpalayam,N/A,N/A
+75,Gandhipuram,Irugur,N/A,N/A
+76,Ukkadam,Chinnavedampatti,N/A,N/A
+77,Town Hall,Edayarpalayam,N/A,N/A
+77A,Ukkadam,Kannampalayam,N/A,N/A
+77B,Ukkadam,Edayarpalayam,N/A,N/A
+78,Gandhipuram,Thadagam,N/A,N/A
+"78A,78B",Gandhipuram,Anaikatti,N/A,N/A
+79,Selvapuram,Tudhiyalur,N/A,N/A
+80,Edyarpalayam,Ondipudur,N/A,N/A
+81,Gandhipuram,Serayampalayam,N/A,N/A
+81,Gandhipuram,Ponne Goundan Pudur,N/A,N/A
+81A,"Gandhipuram,",Kaduvetti,N/A,N/A
+81A,Gandhipuram,Ponne Goundan Pudur,N/A,N/A
+82A,Ukkadam,Vagarayam Palayam,N/A,N/A
+82B,Gandhipuram,Semsampatti,N/A,N/A
+84,Avarampalayam,Malumichampatti,N/A,N/A
+84A,Gandhipuram,Malumichampatti,N/A,N/A
+85,Ukkadam,Thadagam,N/A,N/A
+86,Gandhipuram,Chinnavedampatti,N/A,N/A
+87,Gandhipuram,Koil Palayam,N/A,N/A
+88,R Kalyanamandapam,R Kalyanamandapam,N/A,N/A
+"89,89A",Railway Station,Press Colony,N/A,N/A
+90,Ukkadam,Government Poultry Farm,N/A,N/A
+90A,Ukkadam,Somanur,N/A,N/A
+"91,91A",KovaiPudur,Saibaba Colony,N/A,N/A
+92,Maruthamalai,Cheranpalayam,N/A,N/A
+93,lawley Road,Kulathur,N/A,N/A
+94,Gandhipuram,Periyanaickampalayam,N/A,N/A
+94A,PSG Arts College,Kalikanaickenpalayam,N/A,N/A
+95,Gandhipuram,Singanallur,N/A,N/A
+96,Gandhipuram,Valayar,N/A,N/A
+9lq,Ukkadam,Chinna Thadagam,N/A,N/A
+98,Ukkadam,Pachapalayam,N/A,N/A
+98A,Ukkadam,Vagarayam Palayam,N/A,N/A
+99,Gandhipuram,Thondamuthur,N/A,N/A
+100,Ukkadam,Velanthavalarn,N/A,N/A
+101,Gandhipuram,Kumittipathy,N/A,N/A
+101A,Saibaba Colony,Kaliapuram,N/A,N/A
+102A,Gandhipuram,Karamadai,N/A,N/A
+103,Puliyakulam,Veprapandipudur,N/A,N/A
+104A,Ukkadam,patyainpalayam,N/A,N/A
+105,Ukkadam,Kojangipalayam,N/A,N/A
+105C,Gandhipuram,Karatiampettai,N/A,N/A
+106,Town Hall,Kinathukadavu,N/A,N/A
+106A,Railway Station,Kinathukadavu,N/A,N/A
+106B,Railway Station,Koil Palayam,N/A,N/A
+107,KovaiPudur,SIHS Colony,N/A,N/A
+108,Ukkadam,Chinnakuili,N/A,N/A
+109,Ondipudur,Saibaba Colony,N/A,N/A
+110A,Kurumbapalayam,Saibaba Colony,N/A,N/A
+110B,Singanallur ESI,Kurumba Palayam,N/A,N/A
+111,Gandhipuram,Gandhipuram,N/A,N/A
+112,Ukkadam,Goves-rrnent ITI,N/A,N/A
+113,Onidpudur,Keeranatham,N/A,N/A
+S1,Ondipudur,Maniakarampalayam,N/A,N/A
+S2,Uppilipalayam,Kandakavundan Chavadi,N/A,N/A
+S3,Chittipalayam,Varadharajapuram,N/A,N/A
+S4,Uppilipalayam,Mathipalayam,N/A,N/A
+S5,Singanallur,Thirumalayampalayam,N/A,N/A
+S6,ESI Hospital,Vellakinaru,N/A,N/A
+S7,KovaiPudur,Ondipudur,N/A,N/A
+S8,PSG Arts College,Perur,N/A,N/A
+S9B,Ondipudur,Sankara Polytechnic,N/A,N/A
+S10,Ondipudur,Udaiyampalayam,N/A,N/A
+S12,Maruthamalai,Masakalipalayam,N/A,N/A
+S13,ESI Hospital,Maruthamalai,N/A,N/A
+S14,KovaiPudur,Avarampalayam,N/A,N/A
+S15,Singanallur,Maruthamalai,N/A,N/A
+S16,Singanallur,Telungupalayam,N/A,N/A
+S17,KovaiPudur,Avarampalayam,N/A,N/A
+S17,Gandhipuram,Perur,N/A,N/A
+S18,Singanallur,NGGO Colony,N/A,N/A
+S19,PSG Arts College,Vellalur,N/A,N/A
+S20,Singanallur,Chelakaraichal,N/A,N/A
+S21,Periyanaickenpalayam,Krishnammal College,N/A,N/A
+S22,"ESI, Hospital",Chettipalayam,N/A,N/A
+S23,Cheranmaanagar,Ondipudur,N/A,N/A
+S24,Ondipudur,Kasi Nanje Coundanpudur,N/A,N/A
+S25,KovaiPudur,Singanallur,N/A,N/A
+S26,Nanjundapuram,Maruthamalai,N/A,N/A
+S27,Singanallur,Sultanpettai,N/A,N/A
+S28,ESI Hospital,Chelakaraichal,N/A,N/A
+S29,Thudiyalur,Singanallur,N/A,N/A
+S30,KovaiPudur,Krishnammal College,N/A,N/A

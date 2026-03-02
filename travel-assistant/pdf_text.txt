@@ -1,0 +1,38 @@
+COIMBATORE CORPORATION
+33 Urban PHC Name list
+S No Zone Uphc Name Location
+1 Central CTM Home Kalingarayan Street,Srinivasapuram, Gandhipuram, Coimbatore-641009
+2 Central Jail Road No 6, Dr Nanjappa Road, Coimbatore-641018
+3 Central Nanjundapuram No,1,Perumalkovil Street, Nanjundapuram, Coimbatore-641045
+4 Central Pattunool No 3 Pattunoolkara Lane Sukkarawarpet Coimbatre -641001
+5 Central Ramanathapuram 1176, Behind Nehru Park, Sungam, Ramanathapuram, Coimbatore - 641045
+6 Central Rathinapuri No.1, Nehru Street, Rathinapuri, Coimbatore- 641027.
+7 Central SLM Home 173, Krishana Samy Road,Dvhs Road Rspuram.Coimbatore-641002
+8 Central VVM Home 295, Vysial St, Near Badri Stores, Town Hall, Coimbatore-641001
+9 East Sowripalayam 1 Kmk Street, Udayampalayam, Sowripalayam, Coimbatore-641028
+10 East Uppilipalayam 136,Sree Vignesh Nagar,Varatharapuram Main Road, Uppilipalayam,Coimbatore-641015
+11 East Singanallur Corporation Building, 1, Trichy Rd, Agraharam, Singanallur, Coimbatore-641005
+12 East Vilankurichi Gandhi Street, Vilankuruchi, Coimbatore-641035
+13 East Neelikonampalayam Corporation School Back Side, Neelikonampalayam. Coimbatore-641033
+14 North Ganapathy Raja Street, Sanganoor Road, Ganapathy, Coimbatore- 641006
+15 North Peelamedu Pioneer Mill Road, Peelamedu , Coimbatore -641004
+16 North Ganapathi Managar No.1, Murugan Nagar, Ganapathy Ma Nagar, Uphc, Vilankurichi Road, Peelamedu - 641004
+17 North Thudiyalur Edikarai Road ,Thudiyalur.Coimbatore-641034
+18 North Vellakinar Ulaipalar St,Ganapathy Manin Road Vellakinar
+33 Urban PHC Name list
+S No Zone Uphc Name Location
+19 South Raja Street Near Corporation Car Parking Rajastreet Townhall Coimbatore-641001
+20 South Selvapuram 2, Perur Main Road, Selvapuram, Coimbatore-641026
+21 South Telungupalayam 64 Muthiya Udaiyar St,Telungupalayam,Coimbatore-641039
+22 South Thondamuthur Govt Officers Colony, Kuniyamuthur, Coimbatore-641008
+23 South Pothanur Sathram Street,Podanur, Coimbatore-641023
+24 South Kuniamuthur Sriram Colony, Edayarpalayam, Karuvapillaithotham, Kuniyamuthur - 641008.
+25 South Kurichi 5E/3, Palaniyappa Lay Out, Periyar Nagar, Sidco Post, Sundarapuram, Coimbatore 641021.
+26 West KK Pudhur 73 Maniam Velappar Street, Kkpudur Post Saibaba Colony, Coimbatore 641038
+27 West MM Home Bharathi Parkroad No 2 Ramalingam Colony, Coimbatore-641043
+28 West RK Bai 234 Sundaram St,Gandhi Park, Coimbatore-641002
+29 West SN Palayam No.1 Gokulam Colony 3Rd Street ,Pn.Pudur,Coimbatore- 641041
+30 West Kalveeranpalayam Maruthamalai Main Road, Kalveerampalyam. Coimbatore- 641041
+31 West Vadavalli Maharani Avenue, 1St Phase, Thatco Building, Thondamuthur Road, Vadavalli, Coimbatore - 641041
+32 West 49 Goundanpalayam Edayarpalayam Road, Goundampalayam, Coimbatore- 641030
+33 North Maniyakarampalayam Near Registrar office, Sankaralinganar St, Udayampalayam Road, Maniyakarampalayam, Coimbatore -06

@@ -1,0 +1,116 @@
+# Implementation Plan - NammaWay AI: City Survival Engine
+
+This plan outlines the technical roadmap to build a Decision Intelligence System for relocation in Coimbatore, integrating 5 disparate datasets into a cohesive AI-driven recommendation platform.
+
+## Proposed Changes
+
+### 1. Feature Engineering Layer (Data Fusion) ✅ COMPLETED
+This layer preprocesses the raw datasets and performs the "Join" operation to create a **Master Feature Table**.
+
+#### [IMPLEMENTED] [featureEngineering.ts](file:///c:/SideQuest/ConsumerExperience/src/services/featureEngineering.ts)
+- **Dataset Joins**: Merges accommodations with spatial proximity data.
+- **Proximity Scores**: Implements the Haversine formula to calculate:
+  - ✅ Distance from each accommodation to the nearest Bus Stop (using SETC API with fallback).
+  - ✅ Distance from each accommodation to the user's specified workplace (e.g., TIDEL Park) - **OPTIONAL**.
+  - ✅ Count of restaurants and mess facilities within a 1km radius (using [export.geojson](file:///c:/SideQuest/ConsumerExperience/export.geojson)).
+  
+#### [IMPLEMENTED] [featureEngineeringApi.ts](file:///c:/SideQuest/ConsumerExperience/src/services/featureEngineeringApi.ts)
+- **API Service**: Provides functions to enhance accommodations with feature engineering results.
+- **Batch Processing**: Optimized batch calculation for multiple accommodations.
+
+#### [UPDATED] [SmartStayFinder.tsx](file:///c:/SideQuest/ConsumerExperience/src/components/dashboard/SmartStayFinder.tsx)
+- ✅ Added optional workplace field to form.
+- ✅ Integrated feature engineering API calls.
+- ✅ Displays feature results in accommodation cards with visual badges.
+
+#### [UPDATED] [DashboardUserCard.tsx](file:///c:/SideQuest/ConsumerExperience/src/components/dashboard/DashboardUserCard.tsx)
+- ✅ Shows workplace information if provided by user.
+
+### 2. Predictive Expense Model (ML)
+A Regression model to estimate the "Total Monthly Survival Cost" beyond just rent.
+
+#### [NEW] [expense_model.py](file:///c:/SideQuest/ConsumerExperience/src/ai/expense_model.py)
+- **Model**: Random Forest or XGBoost Regressor.
+- **Features**: Rent, nearby restaurant density, Numbeo grocery indices, and User Lifestyle profile (Frugal, Balanced, Premium).
+- **Target**: Predicted monthly total expenditure.
+
+### 3. Decision Intelligence Engine (MCDA)
+A ranking algorithm using Multi-Criteria Decision Analysis to find the optimal living spot.
+
+#### [NEW] [decision_engine.py](file:///c:/SideQuest/ConsumerExperience/src/ai/decision_engine.py)
+- **Logic**: Weighted Scoring System.
+  - **Budget (50%)**: Inverse normalized rent/expense.
+  - **Commute Time (30%)**: Based on distance to bus routes and workplace.
+  - **Amenities (20%)**: Count of nearby mess/restaurants/hospitals.
+- **Output**: Top 3 ranked accommodations.
+
+### 4. Travel Optimizer
+Logic to recommend the best area to stay based on connectivity.
+
+#### [NEW] [travel_optimizer.py](file:///c:/SideQuest/ConsumerExperience/src/ai/travel_optimizer.py)
+- Analyze [Coimbatore_bus_routes.json](file:///c:/SideQuest/ConsumerExperience/datasets/Coimbatore_bus_routes.json) to find the most "connected" areas relative to the workplace.
+- Correlation between Route Trajectory patterns and workplace hubs.
+
+### 5. Explainable AI Layer (LLM)
+Integrating Gemini API to provide human-readable justifications for decisions.
+
+#### [NEW] [xai_summary.py](file:///c:/SideQuest/ConsumerExperience/src/ai/xai_summary.py)
+- **Prompt Engineering**: Pipe the output of the ML model and MCDA engine into Gemini.
+- **Goal**: Generate a "Survival Summary" that justifies why a specific PG was chosen (e.g., "This PG is ₹1k cheaper, and while the commute is 5 mins longer, you are within 200m of 5 budget mess facilities, saving you ₹2k/month on food").
+
+---
+
+## Database Schema (Master Feature Table)
+
+```mermaid
+classDiagram
+    class MasterFeatureTable {
+        +String ID
+        +String Accom_Name
+        +Float Rent
+        +Float Latitude
+        +Float Longitude
+        +Float Dist_to_Workplace
+        +Float Dist_to_BusStop
+        +Int Nearby_Mess_Count
+        +Float Avg_Meal_Price
+        +Float Predicted_Survival_Cost
+        +Float Value_Score
+    }
+    MasterFeatureTable --|> PG_Dataset
+    MasterFeatureTable --|> House_Dataset
+    MasterFeatureTable --|> OSM_Data
+```
+
+## System Architecture
+
+```mermaid
+graph TD
+    User([User Input: Budget, Lifestyle, Workplace]) --> FE[Feature Engineering Layer]
+    Bus[(Bus Routes)] --> FE
+    GPS[(GPS Trajectory)] --> FE
+    OSM[(OSM/Zomato)] --> FE
+    FE --> MFT[Master Feature Table]
+    
+    MFT --> PEM[Predictive Expense Model]
+    Numbeo[(Numbeo Costs)] --> PEM
+    
+    PEM --> DIE[Decision Intel Engine]
+    MFT --> DIE
+    
+    DIE --> Top3[Top 3 Recommendations]
+    Top3 --> Gemini[Explainable AI Layer]
+    Gemini --> Summary[Personalized Survival Summary]
+```
+
+## Verification Plan
+
+### Automated Tests
+- **Haversine Validation**: Unit tests to verify distance calculations between known coordinates (e.g., Gandhipuram to TIDEL Park).
+- **Model Inference Test**: Mock data ingestion to check if XGBoost returns a valid expense range.
+- **MCDA Ranking Test**: Verify that a cheaper PG with better amenities ranks higher than a generic expensive one.
+
+### Manual Verification
+1. Input a sample lifestyle (e.g., "Frugal") and workplace ("TIDEL Park").
+2. Check if the top recommendation aligns with the lowest total cost (Rent + Travel + Food).
+3. Verify that the LLM summary accurately reflects the data (no hallucinations for prices).

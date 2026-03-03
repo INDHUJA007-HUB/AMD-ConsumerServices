@@ -1,5 +1,8 @@
 # NammaWay - AI-Powered Travel & Relocation Assistant
 
+**🌍 Live Application:** [https://nammaway.vercel.app](https://nammaway.vercel.app)  
+**⚙️ Backend API:** [https://amd-consumerservices.onrender.com](https://amd-consumerservices.onrender.com)
+
 NammaWay is an intelligent, highly personalized travel and relocation dashboard designed to simplify planning for users visiting or moving to a new city (currently focused on Coimbatore). It generates end-to-end, multi-day itineraries, manages granular budget breakdowns, provides dynamic route mapping, and crucially features a **real-time AI Plan Modifier** that allows users to seamlessly customize their trip via natural language chat.
 
 ## 🚀 Key Features
